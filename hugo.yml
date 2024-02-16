@@ -57,17 +57,6 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
 
   # home-info mode
   homeInfoParams:
@@ -75,22 +64,15 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: wordpress
-      url: "https://example.com"
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
-      
-  cover:
-    hidden: false # hide everywhere but not in structured data
-    hiddenInList: false    # hide on list pages and home
-    hiddenInSingle: false # hide on single page
+      url: "https://github.com/AaronBenDaniel"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/aaron-bendaniel-43747a29b/"
+    - name: email
+      url: "mailto:blueaaron07@gmail.com"
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/AaronBenDaniel/AaronBenDanielWebsite"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -107,21 +89,17 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
     - identifier: tags
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: robotics
+      name: Robotics & Engineering
+      url: https://mvthsengineering.com
       weight: 30
-    - identifier: test
-      name: test
-      url: test
+    - identifier: aboutme
+      name: About Me
+      url: /about
       weight: 10
       
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
