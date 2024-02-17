@@ -4,5 +4,5 @@ layout: "search" # necessary for search
 # url: "/archive"
 # description: "Search"
 summary: "search"
-placeholder: "Search Aaron BenDaniel's blog - Search doesn't seem to really work right now"
+placeholder: "Search Aaron BenDaniel's blog"
 ---
