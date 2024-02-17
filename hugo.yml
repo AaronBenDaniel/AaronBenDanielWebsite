@@ -89,22 +89,26 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+#    - identifier: search
+#      name: Search
+#      url: /search/
+#      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 10
+      weight: 20
     - identifier: projecs
       name: Projects
       url: /projects/
-      weight: 20
+      weight: 30
     - identifier: aboutme
       name: About Me
       url: /about/
-      weight: 30
+      weight: 40
     - identifier: robotics
       name: Robotics & Engineering
       url: https://mvthsengineering.com
-      weight: 40
+      weight: 50
       
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
@@ -116,3 +120,9 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+    
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
