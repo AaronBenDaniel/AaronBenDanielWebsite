@@ -90,17 +90,21 @@ params:
 menu:
   main:
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
+      weight: 10
+    - identifier: projecs
+      name: Projects
+      url: /projects/
       weight: 20
+    - identifier: aboutme
+      name: About Me
+      url: /about/
+      weight: 30
     - identifier: robotics
       name: Robotics & Engineering
       url: https://mvthsengineering.com
-      weight: 30
-    - identifier: aboutme
-      name: About Me
-      url: /about
-      weight: 10
+      weight: 40
       
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
