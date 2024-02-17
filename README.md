@@ -1,2 +1,6 @@
 # AaronBenDanielWebsite
-My website, made for robotics and engineering blog.
+My website, made for my Robotics & Engineering blog.
+
+[Hosted on Netlify](https://aaronbendaniel.netlify.app/projects/)
+
+Build with PaperMod, based on Hugo
