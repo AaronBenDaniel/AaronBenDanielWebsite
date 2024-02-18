@@ -76,7 +76,7 @@ Our biggest cooperate sponsor, Watts Water Technologies, has continually support
 
 !["Image of the single-cable Tube Camera"](/img/projects/singletubecameraback.webp)
 
-!["Image of the single-cable Tube Camera"](/img/singletubecameranotube.webp)
+!["Image of the single-cable Tube Camera"](/img/projects/singletubecameranotube.webp)
 
 During our 2022-2023 year, although the Tube Cameras worked well, the way they had two separate wires for each one was a big hassle and a major point of failure. I revised the way they’re connected to the Main Electronics Tube and have combined both 5V power and 100Mbps ethernet into a single CAT 5E cable. The Tube Cameras never utilized the full 1Gbps they were wired with on S.T.E.V.E. I repurposed the unused twisted pairs into 5V power and GND.
 
