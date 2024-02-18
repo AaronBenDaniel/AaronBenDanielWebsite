@@ -8,6 +8,8 @@ ShowReadingTime: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 disableShare: true
+showToc: true
+TocOpen: true
 editPost:
     URL: "https://github.com/AaronBenDaniel/AaronBenDanielWebsite/blob/main/content"
     Text: "Suggest Changes" # edit text
@@ -28,7 +30,7 @@ I primarily help with building and maintaining the hardware of our robot. I work
 
 Almost all of my in-shop time is spent working on something related to Sunk Robotics.
 
-### Projects from Sunk Robotics:
+## Projects from Sunk Robotics:
 
 ### 2023-2024
 
