@@ -22,7 +22,7 @@ editPost:
 
 {{< figure src="/img/projects/jonarov.png" width="1000" caption="JONA ROV, Sunk Robotics' newest edition to its fleet" alt="Image of JONA ROV">}}
 
-I am a founding member of the Medford Robotics Team. Named [Sunk Robotics](https://sunkrobotics.com/), we participate in the Ranger class of the [MATE ROV Competition](https://materovcompetition.org/). The MATE ROV Competition is an international underwater robotics competition that challenges students of all ages to build, operate, and speak about underwater remotely operated vehicles (ROVs). Sunk Robotics participates in the Ranger class, which is for high school-age teams. And have advanced to the international level twice (2022 & 2023).
+I am a founding member of the Medford Robotics Team. Named {{< linknewtab "https://sunkrobotics.com/" "Sunk Robotics" >}}, we participate in the Ranger class of the {{< linknewtab "https://materovcompetition.org/" "MATE ROV Competition" >}}. The MATE ROV Competition is an international underwater robotics competition that challenges students of all ages to build, operate, and speak about underwater remotely operated vehicles (ROVs). Sunk Robotics participates in the Ranger class, which is for high school-age teams. And have advanced to the international level twice (2022 & 2023).
 
 I primarily help with building and maintaining the hardware of our robot. I worked on the electrical and camera systems for our 2022 & 2023 ROV, S.T.EV.E. (pictured above). Currently, I’m working on the frame, electrical, and camera systems of our 2024 ROV, JONA.
 
@@ -114,7 +114,7 @@ During our first year, before we had actually attended any competitions, we were
 
 !["Image of the Sumo Bot Bottom"](/img/projects/sumobotbottom.webp)
 
-All sophomores in the Robotics & Engineering vocational shop participate in the Sumo Bot Competition. Students are broken up into teams of 1-2 people and they have a few weeks to build a sumo bot to compete. My partner, [Tanzerul Azam](https://tazam257.wixsite.com/tanzerul-azam), and I formed "Team Nestle" and built a sumo bot.
+All sophomores in the Robotics & Engineering vocational shop participate in the Sumo Bot Competition. Students are broken up into teams of 1-2 people and they have a few weeks to build a sumo bot to compete. My partner, {{< linknewtab "https://tazam257.wixsite.com/tanzerul-azam" "Tanzerul Azam" >}}, and I formed "Team Nestle" and built a sumo bot.
 
 ## The Lightbox Project
 
