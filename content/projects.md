@@ -44,6 +44,8 @@ Almost all of my in-shop time is spent working on something related to Sunk Robo
 
 For our 2023-2024 year, Sunk Robotics decided to build an entirely new ROV Frame. The major reason for this was to increase our thruster count from 6 to 8. The additional thrusters will allow for far greater lift capacity and pitch control. As of January 2024, the frame is functional but lacks a few finishing touches.
 
+*See posts about the {{< linktotag "frame" "JONA ROV Frame">}}*
+
 **JONA ROV Electronics Enclosure – UNDER REVISION:**
 
 !["Image of JONA ROV Electronics"](/img/projects/electronicsphoto.webp)
@@ -56,6 +58,8 @@ For our 2023-2024 year, Sunk Robotics decided to build an entirely new ROV Frame
 
 For our 2023-2024 year, the Robotics Team decided to switch from a 4in tube to a 6in tube. Redesigning the frame was the perfect opportunity to do this. Changing the size of our tube required a design of our electronics system. We wanted to transition away from a literally wooden plank and instead wanted a cleaner and more professional solution. Our new design features a frame that holds up to 6 custom PCBs. This new design is far cleaner than our previous design, much more reliable, and looks… safer. This project is now complete, although small changes and additions may be made in the future, its core functionality is done.
 
+*See posts about the {{< linktotag "electronics-tube" "JONA ROV Electronics Enclosure">}}*
+
 **Watts Water Plaque:**
 
 !["Image of the Watts Water Plaque"](/img/projects/wattsplaqueangled.webp)
@@ -63,6 +67,8 @@ For our 2023-2024 year, the Robotics Team decided to switch from a 4in tube to a
 !["Image of the Watts Water Plaque"](/img/projects/wattsplaquestraight.webp)
 
 Our biggest cooperate sponsor, Watts Water Technologies, has continually supported Sunk Robotics, and we felt the need to express our appreciation. I took on the task of designing a gift for them and decided on a plaque that could have text engraved on it.
+
+*See posts about the {{< linktotag "watts-water-plaque" "Watts Water Plaque">}}*
 
 **Tube Camera – The Single Cable:**
 
@@ -73,6 +79,8 @@ Our biggest cooperate sponsor, Watts Water Technologies, has continually support
 !["Image of the single-cable Tube Camera"](/img/singletubecameranotube.webp)
 
 During our 2022-2023 year, although the Tube Cameras worked well, the way they had two separate wires for each one was a big hassle and a major point of failure. I revised the way they’re connected to the Main Electronics Tube and have combined both 5V power and 100Mbps ethernet into a single CAT 5E cable. The Tube Cameras never utilized the full 1Gbps they were wired with on S.T.E.V.E. I repurposed the unused twisted pairs into 5V power and GND.
+
+*See posts about {{< linktotag "cameras" "JONA ROV's cameras">}}*
 
 ### 2022-2023:
 

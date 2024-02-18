@@ -1,0 +1,3 @@
+{{ $tag := .Get 0 }}
+{{ $lowerTag := lower $tag }}
+<a href="{{ .Site.BaseURL }}tags/{{ $lowerTag }}" title="Tags"><span>{{ .Get 1 }}</span></a>
