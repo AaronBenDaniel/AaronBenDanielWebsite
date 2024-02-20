@@ -48,6 +48,6 @@ I tested my water jet guide with the help of juniors {{< linknewtab "https://taz
 
 !["Image of the manufacturing document for my Machinist's Jack"](/img/juniorweek19/paper.webp)
 
-!["Image of the begingging of the base of my Machinist's Jack"](/img/juniorweek19/lathe.webp)
+!["Image of the beginning of the base of my Machinist's Jack"](/img/juniorweek19/lathe.webp)
 
 With all of the projects I’d been devoting most of my time to complete, I now have almost nothing to do in the shop. This means that I can start a new project, or more specifically, re-start an old one. At the very end of my Sophomore year, I began designing and manufacturing some machinists jacks. My first attempt did not end well, but I believe that, with the knowledge I gained from my first attempt, I can successfully manufacture them this time. I just started to turn the first one on Thursday, and I predict this project will take at minimum all of next week.
