@@ -105,10 +105,14 @@ menu:
       name: About Me
       url: /about/
       weight: 40
+    - identifier: archives
+      name: Post Archives
+      url: /archives/
+      weight: 60
     - identifier: robotics
       name: Robotics & Engineering
       url: https://mvthsengineering.com
-      weight: 50
+      weight: 60
       
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
