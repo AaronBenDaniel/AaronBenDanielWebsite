@@ -17,7 +17,7 @@ params:
   title: Aaron BenDaniel's Blog
   description: "Aaron BenDaniel's Blog"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Aaron BenDaniel
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
