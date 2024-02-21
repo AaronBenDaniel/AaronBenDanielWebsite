@@ -61,7 +61,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Aaron BenDaniel's Blog"
-    Content: Welcome to my blog. The source code for this website is available [here](https://github.com/AaronBenDaniel/AaronBenDanielWebsite).
+    Content: Welcome to my blog. The source code for this website is available {{< linknewtab "https://github.com/AaronBenDaniel/AaronBenDanielWebsite" "here" >}}.
 
   socialIcons:
     - name: github
