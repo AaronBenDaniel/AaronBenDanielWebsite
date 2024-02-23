@@ -34,6 +34,8 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
+---
+
 This was a short week, as Monday was Columbus/Indigenous Peoples Day.
 
 !["Image of a 3D model of the electronics tube"](/img/juniorweek06/tube.webp)
