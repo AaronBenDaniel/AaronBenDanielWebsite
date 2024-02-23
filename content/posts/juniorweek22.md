@@ -45,3 +45,5 @@ The RPi4 is having power issues. I thought that I had solved this issue by decre
 I haven’t confirmed the actual cause of the ROV’s problems, and am betting that it’s due to insufficient current supply. If increasing the available current still doesn’t solve the issue… I don’t know what I’ll do.
 
 {{< youtube Fl3BkwJZ8EQ >}}
+
+I also started designing a mechanical gripper for the ROV. I only did the very basic mechanical design before I handed it off to a prospective new member. Alex Pilika is a sophomore in the Robotics & Engineering shop and has expressed interest in joining the team. He has said that he will attempt to design a gripper, but honestly, I’m doubtful that it’ll actually get done in a reasonable amount of time. I guess I’ll see in the next week or so.
