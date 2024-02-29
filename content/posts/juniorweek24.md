@@ -6,16 +6,16 @@ tags: ["Electronics","Electronics Tube","Miscellaneous","Robotics Shop Blog","Su
 # CAD, CAM, Cameras, Electronics, Electronics Tube, FDM Printing, Frame, General CAD, Laser Cutting, Manufacturing, Milling, Miscellaneous, PCB Design,
 # Robotics Shop Blog, Routing, SLA Printing, Soldering, Sunk Robotics, WAter-Jet Cutting, Watts Water Plaque, General CAD, Machinist's Jack, Turning
 cover:
-    image: "/img/juniorweek24/" # image path/url
+    image: "/img/juniorweek24/front.jpg" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-draft: true
+draft: false
 
 # weight: 1
 author: "Aaron BenDaniel"
-showToc: true
+showToc: false
 TocOpen: false
 hidemeta: false
 comments: false
@@ -35,20 +35,17 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-# add cover image
 
-On Monday I tested the feasibility of re-programming the ESCs to change the startup melody to "Shipping Up To Boston". I need to use the website {{< linknewtab "https://esc-configurator.com/" "esc-configurator.com" >}} because the official BL I have so far been able to change the startup melody, but the re-programmed ESCs don't function yet. I only worked on this on Monday, as the new Power Distribution Boards arrived on Tuesday.
+On Monday I tested the feasibility of re-programming the ESCs to change the startup melody to "Shipping Up To Boston". I need to use the website {{< linknewtab "https://esc-configurator.com/" "esc-configurator.com" >}} because the official BLHeli software doesn't allow for reprogramming the startup melodies for 8bot ESCs (which the Blue Robotics ESCs are). I have so far been able to change the startup melody, but the re-programmed ESCs don't function yet. I only worked on this on Monday, as the new Power Distribution Boards arrived on Tuesday.
 
 !["Image of esc-configurator.com"](/img/juniorweek24/esc.png)
 
-The new PD Board will have an 8A voltage regulator as well as current and voltage monitoring capabilities.
+I spent tuesday soldering and debugging the 2.5V votlage reference for the ADC, it is by far the smallest component I've ever soldered and I ended up using the hot plate to solder it, as the hot air gun would blow the part away even on it's lowest air setting.
 
-!["Image of a 3D model of the Power Distribution Board V2"](/img/juniorweek23/back.png)
+!["Image of the front of the new Power Distribution Board"](/img/juniorweek24/front.jpg)
 
-!["Image of the top of the Power Distribution Board V2"](/img/juniorweek23/top.png)
+!["Image of the back of the new Power Distribution Board"](/img/juniorweek24/back.jpg)
 
-!["Image of the bottom of the Power Distribution Board V2"](/img/juniorweek23/bottom.png)
+On Wednesday I began soldering on the other components, and after school Shane and I discovered that the ADC has it's own voltage reference and no VREF pin... So the voltage reference on the PCB is useless.
 
-I’m still not 100% sure that the new voltage regulator will fix our problems, but I have no idea what the source of the issue could be if it isn’t the current supply. Even still, having a greater maximum current draw is good, and I continue to learn more about PCB design.
-
-I believe the new board is done and ready to be ordered, but I still have the nagging feeling that I’m missing something. I intend to ignore it, though, as I have felt this way every single time I’ve ordered PCBs from a PCB company and haven’t forgotten anything yet.
+We also discovered that the ROV is broken. During the process of once more reducing votlage drop, something broke and I2C stopped working. I *think* that the problem is with the 9-axs IMU, but I am not 100% sure and need to do some additional debugging.
