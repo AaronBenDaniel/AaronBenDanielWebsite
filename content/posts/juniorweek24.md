@@ -36,11 +36,11 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-On Monday I tested the feasibility of re-programming the ESCs to change the startup melody to "Shipping Up To Boston". I need to use the website {{< linknewtab "https://esc-configurator.com/" "esc-configurator.com" >}} because the official BLHeli software doesn't allow for reprogramming the startup melodies for 8bot ESCs (which the Blue Robotics ESCs are). I have so far been able to change the startup melody, but the re-programmed ESCs don't function yet. I only worked on this on Monday, as the new Power Distribution Boards arrived on Tuesday.
+On Monday I tested the feasibility of re-programming the ESCs to change the startup melody to "Shipping Up To Boston". I need to use the website {{< linknewtab "https://esc-configurator.com/" "esc-configurator.com" >}} because the official BLHeli software doesn't allow for reprogramming the startup melodies for 8-bit ESCs (which the Blue Robotics ESCs are). I have so far been able to change the startup melody, but the re-programmed ESCs don't function yet. I only worked on this on Monday, as the new Power Distribution Boards arrived on Tuesday.
 
 !["Image of esc-configurator.com"](/img/juniorweek24/esc.png)
 
-I spent tuesday soldering and debugging the 2.5V votlage reference for the ADC, it is by far the smallest component I've ever soldered and I ended up using the hot plate to solder it, as the hot air gun would blow the part away even on it's lowest air setting.
+I spent Tuesday soldering and debugging the 2.5V voltage reference for the ADC. It is by far the smallest component I've ever soldered and I ended up using the hot plate to solder it, as the hot air gun would blow the part away even on it's lowest air setting.
 
 !["Image of the front of the new Power Distribution Board"](/img/juniorweek24/front.jpg)
 
