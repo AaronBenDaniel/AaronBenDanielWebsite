@@ -37,7 +37,9 @@ editPost:
 ---
 # add cover image
 
-This week I designed the Power Distribution Board V2. Last Wednesday, it was made clear that there is a serious problem with the 5V system on JONA ROV. With the help of Mr. Christy’s friend, Shane, I did some diagnosing, but I’m still not 100% sure what the cause of the problem is. It’s probably due to insufficient current supply, as our current 5V regulator can only supply up to 3A. Anyone who has read the electrical specifications of Raspberry Pis should know that this is not enough, and we always knew that 3A was insufficient, but we’re only just now having a problem with it.
+On Monday I tested the feasibility of re-programming the ESCs to change the startup melody to "Shipping Up To Boston". I need to use the website {{< linknewtab "https://esc-configurator.com/" "esc-configurator.com" >}} because the official BL I have so far been able to change the startup melody, but the re-programmed ESCs don't function yet. I only worked on this on Monday, as the new Power Distribution Boards arrived on Tuesday.
+
+!["Image of esc-configurator.com"](/img/juniorweek24/esc.png)
 
 The new PD Board will have an 8A voltage regulator as well as current and voltage monitoring capabilities.
 
