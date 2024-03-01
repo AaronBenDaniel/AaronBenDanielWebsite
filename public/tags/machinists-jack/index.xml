@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Machinist&#39;s Jack on Aaron BenDaniel&#39;s Blog</title>
+    <link>https://aaronbendaniel.netlify.com/tags/machinists-jack/</link>
+    <description>Recent content in Machinist&#39;s Jack on Aaron BenDaniel&#39;s Blog</description>
+    <image>
+      <title>Aaron BenDaniel&#39;s Blog</title>
+      <url>https://aaronbendaniel.netlify.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://aaronbendaniel.netlify.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aaronbendaniel.netlify.com/tags/machinists-jack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Junior Week 21</title>
+      <link>https://aaronbendaniel.netlify.com/posts/juniorweek21/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://aaronbendaniel.netlify.com/posts/juniorweek21/</guid>
+      <description>My Machinist’s Jack is done!</description>
+    </item>
+    <item>
+      <title>Junior Week 20</title>
+      <link>https://aaronbendaniel.netlify.com/posts/juniorweek20/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://aaronbendaniel.netlify.com/posts/juniorweek20/</guid>
+      <description>I am about half way done with my Machinist’s Jack</description>
+    </item>
+    <item>
+      <title>Junior Week 19</title>
+      <link>https://aaronbendaniel.netlify.com/posts/juniorweek19/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://aaronbendaniel.netlify.com/posts/juniorweek19/</guid>
+      <description>My main projects are done, so now I will start another</description>
+    </item>
+  </channel>
+</rss>

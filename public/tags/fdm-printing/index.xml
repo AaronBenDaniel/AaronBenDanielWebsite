@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FDM Printing on Aaron BenDaniel&#39;s Blog</title>
+    <link>https://aaronbendaniel.netlify.com/tags/fdm-printing/</link>
+    <description>Recent content in FDM Printing on Aaron BenDaniel&#39;s Blog</description>
+    <image>
+      <title>Aaron BenDaniel&#39;s Blog</title>
+      <url>https://aaronbendaniel.netlify.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://aaronbendaniel.netlify.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aaronbendaniel.netlify.com/tags/fdm-printing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Junior Week 18</title>
+      <link>https://aaronbendaniel.netlify.com/posts/juniorweek18/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://aaronbendaniel.netlify.com/posts/juniorweek18/</guid>
+      <description>JONA ROV is fully functional!*</description>
+    </item>
+    <item>
+      <title>Junior Week 16</title>
+      <link>https://aaronbendaniel.netlify.com/posts/juniorweek16/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://aaronbendaniel.netlify.com/posts/juniorweek16/</guid>
+      <description>Some small things for JONA ROV. More work on my water jet guide.</description>
+    </item>
+    <item>
+      <title>Junior Week 14</title>
+      <link>https://aaronbendaniel.netlify.com/posts/juniorweek14/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://aaronbendaniel.netlify.com/posts/juniorweek14/</guid>
+      <description>Design work on my ESC PCB v2 is hopefully done!</description>
+    </item>
+    <item>
+      <title>Junior Week 13</title>
+      <link>https://aaronbendaniel.netlify.com/posts/juniorweek13/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://aaronbendaniel.netlify.com/posts/juniorweek13/</guid>
+      <description>JONA now has a bottom-camera! Also Sunk Robotics now uses Notion.</description>
+    </item>
+    <item>
+      <title>Junior Week 07</title>
+      <link>https://aaronbendaniel.netlify.com/posts/juniorweek07/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://aaronbendaniel.netlify.com/posts/juniorweek07/</guid>
+      <description>Turns out there are a lot of screws on the ROV…</description>
+    </item>
+  </channel>
+</rss>
