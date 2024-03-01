@@ -34,7 +34,7 @@ Almost all of my in-shop time is spent working on something related to Sunk Robo
 
 ### 2023-2024
 
-**JONA ROV Frame - FUNCTIONAL:**
+### JONA ROV Frame - FUNCTIONAL:
 
 !["Image of JONA ROV"](/img/projects/jonaleft.jpg)
 
@@ -46,7 +46,7 @@ For our 2023-2024 year, Sunk Robotics decided to build an entirely new ROV Frame
 
 *See posts about the {{< linktotag "frame" "JONA ROV Frame">}}*
 
-**JONA ROV Electronics Enclosure – UNDER REVISION:**
+### JONA ROV Electronics Enclosure – UNDER REVISION:
 
 !["Image of JONA ROV Electronics"](/img/projects/electronicsphoto.webp)
 
@@ -60,7 +60,7 @@ For our 2023-2024 year, the Robotics Team decided to switch from a 4in tube to a
 
 *See posts about the {{< linktotag "electronics-tube" "JONA ROV Electronics Enclosure">}}*
 
-**Watts Water Plaque:**
+### Watts Water Plaque:
 
 !["Image of the Watts Water Plaque"](/img/projects/wattsplaqueangled.webp)
 
@@ -70,7 +70,7 @@ Our biggest cooperate sponsor, Watts Water Technologies, has continually support
 
 *See posts about the {{< linktotag "watts-water-plaque" "Watts Water Plaque">}}*
 
-**Tube Camera – The Single Cable:**
+### Tube Camera – The Single Cable:
 
 !["Image of the single-cable Tube Camera"](/img/projects/singletubecameratube.webp)
 
@@ -82,9 +82,9 @@ During our 2022-2023 year, although the Tube Cameras worked well, the way they h
 
 *See posts about {{< linktotag "cameras" "JONA ROV's cameras">}}*
 
-### 2022-2023:
+### 2022-2023
 
-**Tube Camera:**
+### Tube Camera:
 
 !["Image of the Tube Camera"](/img/projects/tubecameraold.webp)
 
@@ -92,9 +92,9 @@ During our 2022-2023 year, although the Tube Cameras worked well, the way they h
 
 During our 2022-2023 year, we made two major improvements to S.T.E.V.E.: The gripper, and the camera system. I focused on cameras for almost the entirety of the year and designed a multitude of cameras, but ultimately we decided one standard camera design was best. I focused my attention on the best design I’d made, which was the Tube Camera. The Bottom Camera was, for many reasons, a bad design, but the worst aspect of it was how long it took to disassemble and reassemble. The fasteners used to attach the face plate took a very long time to put together. This made maintenance very difficult. The Tube Camera, however, utilizes a custom O-ring seal instead of fasteners. This drastically reduced the time it took to put together, and was a major improvement. It was also far smaller, so it could feasibly be mounted facing forward and backward instead of exclusively down. The Tube Camera is (as of October 2023) still in use on JONA ROV.
 
-### 2021-2022:
+### 2021-2022
 
-**Electronics Tray**
+### Electronics Tray:
 
 !["Image of the Electronics Tray"](/img/projects/electronicstraynotube.webp)
 
@@ -102,7 +102,7 @@ During our 2022-2023 year, we made two major improvements to S.T.E.V.E.: The gri
 
 I designed the electronics tray for S.T.E.V.E. ROV, which would be used from 2021-2023. The tray contained all of the electronics (other than the external Bottom Camera) for the ROV. Being made from laser-cut 1/4in plywood, it was very adaptable, as new holes could easily be drilled without disassembling the entire thing.
 
-**Bottom Camera:**
+### Bottom Camera:
 
 !["Image of the Bottom Camera"](/img/projects/bottomcameraphoto.png)
 
@@ -110,7 +110,7 @@ I designed the electronics tray for S.T.E.V.E. ROV, which would be used from 202
 
 After the 2021 regional, we realized that we needed a bottom-facing camera. I was tasked with making this bottom camera. I was not very experienced and decided to create a waterproof housing around a camera design I’d already made and implemented. This solution was very inefficient and clunky, but it did work.
 
-**Light:**
+### Light:
 
 !["Image of the Light"](/img/projects/lightphoto.png)
 
