@@ -1,7 +1,7 @@
 ---
 title: "Junior Week 07"
 date: 2023-10-19
-Summary: "Turns out there are a lot of screws on the ROV… "
+Summary: "I made a camera, also ordered some PCBs"
 tags: ["CAD","Cameras","Electronics Tube","FDM Printing","General CAD","PCB Design","Manufacturing","Robotics Shop Blog","Sunk Robotics"]
 cover:
     image: "/img/juniorweek07/top.webp" # image path/url
