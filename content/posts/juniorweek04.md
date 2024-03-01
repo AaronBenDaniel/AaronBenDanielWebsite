@@ -1,7 +1,7 @@
 ---
 title: "Junior Week 04"
 date: 2023-09-28
-Summary: "Staining, engraving, and finishing the Watts Water Plaque"
+Summary: "The plaque is done! Also more PCB design…"
 tags: ["CAD","Electronics","Electronics Tube","Manufacturing","PCB Design","Robotics Shop Blog","Sunk Robotics","Routing","Watts Water Plaque"]
 cover:
     image: "/img/juniorweek04/plaquefancy.webp" # image path/url
