@@ -20,7 +20,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-{{< figure src="/img/other/pfp.jpg" width="500" >}}
+{{< figure src="/img/other/pfp.webp" width="500" >}}
 
 My name is Aaron BenDaniel, I am a junior (class of 2025) at the Medford Vocational Technical High School in Medford, Massachusetts. I am in the Robotics & Engineering vocational shop and am a member of the Medford Robotics Team, Sunk Robotics. Sunk Robotics is a two-time International competitior in the MATE ROV Competition.
 

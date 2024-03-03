@@ -36,11 +36,11 @@ Almost all of my in-shop time is spent working on something related to Sunk Robo
 
 ### JONA ROV Frame - FUNCTIONAL:
 
-!["Image of JONA ROV"](/img/projects/jonaleft.jpg)
+!["Image of JONA ROV"](/img/projects/jonaleft.webp)
 
-!["Image of JONA ROV"](/img/projects/jonaright.jpg)
+!["Image of JONA ROV"](/img/projects/jonaright.webp)
 
-!["Image of JONA ROV"](/img/projects/jonabottom.jpg)
+!["Image of JONA ROV"](/img/projects/jonabottom.webp)
 
 For our 2023-2024 year, Sunk Robotics decided to build an entirely new ROV Frame. The major reason for this was to increase our thruster count from 6 to 8. The additional thrusters will allow for far greater lift capacity and pitch control. As of January 2024, the frame is functional but lacks a few finishing touches.
 
