@@ -20,7 +20,7 @@ editPost:
 
 {{< figure src="/img/projects/sunklogo.png" width="1000" >}}
 
-{{< figure src="/img/projects/sunkteam.jpg" width="1000" caption="Left-to-Right: Matthew Harris (’24), Aaron BenDaniel (’25), Timothy Hunt (’27), Franklin Soto-Ortiz ('24), Zachary Bertocchi (’24), Noah Gibson (’24), Jonas Wirz ('27), Scott Campbell ('25), Samuel Christy (Mentor), Ben Wirz ('25), Benjamin Santanna ('24), Matthew Stricker ('26), Miles Hilliard ('27)." alt="Image of the Sunk Robotics team at MITRE's Blue Tec Lab">}}
+{{< figure src="/img/projects/sunkteam.webp" width="1000" caption="Left-to-Right: Matthew Harris (’24), Aaron BenDaniel (’25), Timothy Hunt (’27), Franklin Soto-Ortiz ('24), Zachary Bertocchi (’24), Noah Gibson (’24), Jonas Wirz ('27), Scott Campbell ('25), Samuel Christy (Mentor), Ben Wirz ('25), Benjamin Santanna ('24), Matthew Stricker ('26), Miles Hilliard ('27)." alt="Image of the Sunk Robotics team at MITRE's Blue Tec Lab">}}
 
 {{< figure src="/img/projects/jonarov.png" width="1000" caption="JONA ROV, Sunk Robotics' newest edition to its fleet" alt="Image of JONA ROV">}}
 
