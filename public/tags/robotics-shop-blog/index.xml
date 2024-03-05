@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aaronbendaniel.netlify.com/tags/robotics-shop-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Junior Week 24</title>
+      <link>https://aaronbendaniel.netlify.com/posts/juniorweek24/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://aaronbendaniel.netlify.com/posts/juniorweek24/</guid>
+      <description>The new Power Distribution Board has begun assembly, also the ROV broke :(</description>
+    </item>
     <item>
       <title>Junior Week 23</title>
       <link>https://aaronbendaniel.netlify.com/posts/juniorweek23/</link>
@@ -130,7 +137,7 @@
       <link>https://aaronbendaniel.netlify.com/posts/juniorweek07/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://aaronbendaniel.netlify.com/posts/juniorweek07/</guid>
-      <description>Turns out there are a lot of screws on the ROV…</description>
+      <description>I made a camera, also ordered some PCBs</description>
     </item>
     <item>
       <title>Junior Week 06</title>
@@ -151,7 +158,7 @@
       <link>https://aaronbendaniel.netlify.com/posts/juniorweek04/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://aaronbendaniel.netlify.com/posts/juniorweek04/</guid>
-      <description>Staining, engraving, and finishing the Watts Water Plaque</description>
+      <description>The plaque is done! Also more PCB design…</description>
     </item>
     <item>
       <title>Junior Week 03</title>

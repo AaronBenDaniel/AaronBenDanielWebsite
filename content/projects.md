@@ -58,6 +58,8 @@ For our 2023-2024 year, Sunk Robotics decided to build an entirely new ROV Frame
 
 For our 2023-2024 year, the Robotics Team decided to switch from a 4in tube to a 6in tube. Redesigning the frame was the perfect opportunity to do this. Changing the size of our tube required a design of our electronics system. We wanted to transition away from a literally wooden plank and instead wanted a cleaner and more professional solution. Our new design features a frame that holds up to 6 custom PCBs. This new design is far cleaner than our previous design, much more reliable, and looks… safer. This project is now complete, although small changes and additions may be made in the future, its core functionality is done.
 
+**As of March 2024, I am remaking the Power Distribution and considering remaking the Ethernet Switch Boards as well as making a number of small improvements to reduce resistance along the 5V system.**
+
 *See posts about the {{< linktotag "electronics-tube" "JONA ROV Electronics Enclosure">}}*
 
 ### Watts Water Plaque:
@@ -150,6 +152,14 @@ My lightbox has a variety of display modes:
 {{< youtube OuZklNt7EmY >}}
 
 Near the end of my sophomore year in the Robotics & Engineering shop, I wanted to learn more about our Tormach PCNC 1100 4th axis extension. I decided that I wanted to mill a complex 3D object and settled on a portrait bust of a human head. This project is (as of October 2023) the most complex 4th-axis milling project in the shop. 
+
+## Machinist's Jack
+
+!["Image of my Machinist's Jack"](/img/projects/jack.webp)
+
+This was a project that I started near the end of my Sophomore year. I designed it and began turning it, but ultimately failed in my attempt. I made my second attempt mid-way through Junior year, and succeed the second time after having learned from my mistakes the first time I attempted this project.
+
+I was suggested the idea to make a Machinist's Jack by Mr. L after having one would have been helping when milling my Dead Tool Rack. It is a tool to help give additional support to a part when milling it. So far I have only made one of these, but I might make a second in the future.
 
 ## Dead Tool Rack
 

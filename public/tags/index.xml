@@ -11,27 +11,55 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aaronbendaniel.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CAD</title>
-      <link>https://aaronbendaniel.netlify.com/tags/cad/</link>
-      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://aaronbendaniel.netlify.com/tags/cad/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Electronics</title>
       <link>https://aaronbendaniel.netlify.com/tags/electronics/</link>
-      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://aaronbendaniel.netlify.com/tags/electronics/</guid>
       <description></description>
     </item>
     <item>
       <title>Electronics Tube</title>
       <link>https://aaronbendaniel.netlify.com/tags/electronics-tube/</link>
-      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://aaronbendaniel.netlify.com/tags/electronics-tube/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Miscellaneous</title>
+      <link>https://aaronbendaniel.netlify.com/tags/miscellaneous/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://aaronbendaniel.netlify.com/tags/miscellaneous/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robotics Shop Blog</title>
+      <link>https://aaronbendaniel.netlify.com/tags/robotics-shop-blog/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://aaronbendaniel.netlify.com/tags/robotics-shop-blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soldering</title>
+      <link>https://aaronbendaniel.netlify.com/tags/soldering/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://aaronbendaniel.netlify.com/tags/soldering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sunk Robotics</title>
+      <link>https://aaronbendaniel.netlify.com/tags/sunk-robotics/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://aaronbendaniel.netlify.com/tags/sunk-robotics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CAD</title>
+      <link>https://aaronbendaniel.netlify.com/tags/cad/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://aaronbendaniel.netlify.com/tags/cad/</guid>
       <description></description>
     </item>
     <item>
@@ -42,31 +70,10 @@
       <description></description>
     </item>
     <item>
-      <title>Robotics Shop Blog</title>
-      <link>https://aaronbendaniel.netlify.com/tags/robotics-shop-blog/</link>
-      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://aaronbendaniel.netlify.com/tags/robotics-shop-blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sunk Robotics</title>
-      <link>https://aaronbendaniel.netlify.com/tags/sunk-robotics/</link>
-      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://aaronbendaniel.netlify.com/tags/sunk-robotics/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>General CAD</title>
       <link>https://aaronbendaniel.netlify.com/tags/general-cad/</link>
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://aaronbendaniel.netlify.com/tags/general-cad/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Miscellaneous</title>
-      <link>https://aaronbendaniel.netlify.com/tags/miscellaneous/</link>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://aaronbendaniel.netlify.com/tags/miscellaneous/</guid>
       <description></description>
     </item>
     <item>
@@ -88,13 +95,6 @@
       <link>https://aaronbendaniel.netlify.com/tags/turning/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://aaronbendaniel.netlify.com/tags/turning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Soldering</title>
-      <link>https://aaronbendaniel.netlify.com/tags/soldering/</link>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://aaronbendaniel.netlify.com/tags/soldering/</guid>
       <description></description>
     </item>
     <item>
