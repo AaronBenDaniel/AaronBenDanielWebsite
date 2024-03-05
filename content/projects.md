@@ -161,6 +161,8 @@ This was a project that I started near the end of my Sophomore year. I designed 
 
 I was suggested the idea to make a Machinist's Jack by Mr. L after having one would have been helping when milling my Dead Tool Rack. It is a tool to help give additional support to a part when milling it. So far I have only made one of these, but I might make a second in the future.
 
+*See posts about the {{< linktotag "machinists-jack" "Machinist's Jack">}}*
+
 ## Dead Tool Rack
 
 !["Image of the Metal Head"](/img/projects/deadrack.webp)
