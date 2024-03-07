@@ -6,7 +6,7 @@ tags: ["CAD","General CAD","Miscellaneous","Robotics Shop Blog","Sunk Robotics"]
 # CAD, CAM, Cameras, Electronics, Electronics Tube, FDM Printing, Frame, General CAD, Laser Cutting, Manufacturing, Milling, Miscellaneous, PCB Design,
 # Robotics Shop Blog, Routing, SLA Printing, Soldering, Sunk Robotics, WAter-Jet Cutting, Watts Water Plaque, General CAD, Machinist's Jack, Turning
 cover:
-    image: "/img/juniorweek22/jona.webp" # image path/url
+    image: "/img/junior/juniorweek22/jona.webp" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true

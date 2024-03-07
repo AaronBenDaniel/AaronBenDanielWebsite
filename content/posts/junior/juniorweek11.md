@@ -4,7 +4,7 @@ date: 2023-11-16
 Summary: "JONA ROV is so close to being done, but it’s not quite there yet."
 tags: ["Electronics","Electronics Tube","Robotics Shop Blog","Sunk Robotics","Soldering"]
 cover:
-    image: "/img/juniorweek11/electronics.webp" # image path/url
+    image: "/img/junior/juniorweek11/electronics.webp" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -36,14 +36,14 @@ editPost:
 
 The MITRE trip is on Monday and I spent this week trying to get as much of JONA ROV done as possible. This involved a lot of crimping and soldering. {{< linknewtab "https://benwirz.netlify.app/" "Ben Wirz" >}}, who had been working on the float for Sunk Robotics, paused his work and assisted me with much of the electronics assembly this week.
 
-!["Image of JONA ROV"](/img/juniorweek11/jona.webp)
+!["Image of JONA ROV"](/img/junior/juniorweek11/jona.webp)
 
-!["Image of JONA ROV"](/img/juniorweek11/jonatop.webp)
+!["Image of JONA ROV"](/img/junior/juniorweek11/jonatop.webp)
 
 We got some pool time on both Monday and Wednesday, which was very helpful especially for our previous year’s ROV S.T.E.V.E., as we’re going to demo it at MITRE’s Blue Tech Lab. JONA ROV also had it’s inagural swim on Monday. We assembled all of the penetrators Monday in-class and were able to put it into the pool after school. At the moment, JONA ROV is very positivly bouyant, so we’ll need to add weights to it in order to maintain neutral bouyacy.
 
-!["Image of the electronics for JONA ROV"](/img/juniorweek11/electronics.webp)
+!["Image of the electronics for JONA ROV"](/img/junior/juniorweek11/electronics.webp)
 
-!["Image of the electronics for JONA ROV"](/img/juniorweek11/electronicsa.webp)
+!["Image of the electronics for JONA ROV"](/img/junior/juniorweek11/electronicsa.webp)
 
 Unfortunantly, I do not believe the JONA ROV will be functional by Monday, and we won’t be able to demo it in MITRE’s pool. We don’t have enough crimps for the thrusters, so we can’t connect them to the ESC PCBs. Other than that, though, the electronics for JONA ROV are done! (Although they have not been tested yet)

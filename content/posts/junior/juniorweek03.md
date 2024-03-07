@@ -4,7 +4,7 @@ date: 2023-09-20
 Summary: "Staining, engraving, and finishing the Watts Water Plaque"
 tags: ["CAD","CAM","Manufacturing","Milling","Robotics Shop Blog","Sunk Robotics","Routing","Watts Water Plaque"]
 cover:
-    image: "/img/juniorweek03/plaque.webp" # image path/url
+    image: "/img/junior/juniorweek03/plaque.webp" # image path/url
     alt: "Image of the Watts Water Plaque" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -36,7 +36,7 @@ editPost:
 
 ---
 
-!["Image of the wooden base of the Watts Water Plaque, unstained"](/img/juniorweek03/wood.webp)
+!["Image of the wooden base of the Watts Water Plaque, unstained"](/img/junior/juniorweek03/wood.webp)
 
 On Monday I finished routing the wooden portion of the Watts Water Plaque. I had to reduce the width by one inch in order to make it fit in the stock we had. I also reduced the length by 1.5 inches so that the aspect ratio would remain the same.
 
@@ -48,10 +48,10 @@ Tuesday I stained the wooden part of the Watts Water Plaque with Light Brown sta
 
 Wednesday, I finished up polishing the aluminum sheet, engraved it, and with the help of [Ben Wirz](https://benwirz.netlify.app/), applying some paint and sanding it to make the letters contrast more.
 
-!["Image of the Watts Water Plaque"](/img/juniorweek03/plaquefirst.webp)
+!["Image of the Watts Water Plaque"](/img/junior/juniorweek03/plaquefirst.webp)
 
 This is mostly what the plaque looked like before the paint treatment.
 
-!["Image of the Watts Water Plaque"](/img/juniorweek03/plaque.webp)
+!["Image of the Watts Water Plaque"](/img/junior/juniorweek03/plaque.webp)
 
 This is the plaque after the paint. It does look better, but it is highly lighting dependent. In some conditions it looks great, and in some it’s completely unreadable. I am considering remaking the metal portion of the plaque and instead laser-engraving painted aluminum, it might look better.

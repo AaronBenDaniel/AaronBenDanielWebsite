@@ -6,7 +6,7 @@ tags: ["Cameras","Electronics","Electronics Tube","FDM Printing","Manufacturing"
 # CAD, CAM, Cameras, Electronics, Electronics Tube, FDM Printing, Frame, General CAD, Laser Cutting, Manufacturing, Milling, Miscellaneous, PCB Design,
 # Robotics Shop Blog, Routing, SLA Printing, Soldering, Sunk Robotics, WAter-Jet Cutting, Watts Water Plaque
 cover:
-    image: "/img/juniorweek18/wires.webp" # image path/url
+    image: "/img/junior/juniorweek18/wires.webp" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -38,9 +38,9 @@ editPost:
 
 This week I hit a major milestone with JONA ROV and the Robotics Team. Although on Wednesday the shop was flooded so I didn’t get any work done, I still managed to complete some tasks.
 
-!["Image of the ESC Board V2"](/img/juniorweek18/board.webp)
+!["Image of the ESC Board V2"](/img/junior/juniorweek18/board.webp)
 
-!["Image of the ESC Board V2"](/img/juniorweek18/back.webp)
+!["Image of the ESC Board V2"](/img/junior/juniorweek18/back.webp)
 
 I soldered the second ESC PCB and tested each ESC. All four worked, so I then soldered the XT30 connectors onto the remaining four motors. I was able to assemble everything and JONA ROV is now, theoretically, fully functional. Wednesday after school Matty was able to test each motor and they all work! However, we also discovered another problem. There is a very mysterious voltage drop in the 5V system that I have no idea how it even exists. When I measure voltage from two points on a continuous power bus, I read two different values.
 

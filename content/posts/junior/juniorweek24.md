@@ -6,7 +6,7 @@ tags: ["Electronics","Electronics Tube","Miscellaneous","Robotics Shop Blog","Su
 # CAD, CAM, Cameras, Electronics, Electronics Tube, FDM Printing, Frame, General CAD, Laser Cutting, Manufacturing, Milling, Miscellaneous, PCB Design,
 # Robotics Shop Blog, Routing, SLA Printing, Soldering, Sunk Robotics, WAter-Jet Cutting, Watts Water Plaque, General CAD, Machinist's Jack, Turning
 cover:
-    image: "/img/juniorweek24/front.webp" # image path/url
+    image: "/img/junior/juniorweek24/front.webp" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -38,13 +38,13 @@ editPost:
 
 On Monday I tested the feasibility of re-programming the ESCs to change the startup melody to "Shipping Up To Boston". I need to use the website {{< linknewtab "https://esc-configurator.com/" "esc-configurator.com" >}} because the official BLHeli software doesn't allow for reprogramming the startup melodies for 8-bit ESCs (which the Blue Robotics ESCs are). I have so far been able to change the startup melody, but the re-programmed ESCs don't function yet. I only worked on this on Monday, as the new Power Distribution Boards arrived on Tuesday.
 
-!["Image of esc-configurator.com"](/img/juniorweek24/esc.png)
+!["Image of esc-configurator.com"](/img/junior/juniorweek24/esc.png)
 
 I spent Tuesday soldering and debugging the 2.5V voltage reference for the ADC. It is by far the smallest component I've ever soldered and I ended up using the hot plate to solder it, as the hot air gun would blow the part away even on it's lowest air setting.
 
-!["Image of the front of the new Power Distribution Board"](/img/juniorweek24/front.webp)
+!["Image of the front of the new Power Distribution Board"](/img/junior/juniorweek24/front.webp)
 
-!["Image of the back of the new Power Distribution Board"](/img/juniorweek24/back.jpg)
+!["Image of the back of the new Power Distribution Board"](/img/junior/juniorweek24/back.jpg)
 
 On Wednesday I began soldering on the other components, and after school Shane and I discovered that the ADC has it's own voltage reference and no VREF pin... So the voltage reference on the PCB is useless.
 

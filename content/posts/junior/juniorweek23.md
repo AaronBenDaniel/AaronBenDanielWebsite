@@ -6,7 +6,7 @@ tags: ["CAD","Electronics","Electronics Tube","PCB Design","Robotics Shop Blog",
 # CAD, CAM, Cameras, Electronics, Electronics Tube, FDM Printing, Frame, General CAD, Laser Cutting, Manufacturing, Milling, Miscellaneous, PCB Design,
 # Robotics Shop Blog, Routing, SLA Printing, Soldering, Sunk Robotics, WAter-Jet Cutting, Watts Water Plaque, General CAD, Machinist's Jack, Turning
 cover:
-    image: "/img/juniorweek23/front.webp" # image path/url
+    image: "/img/junior/juniorweek23/front.webp" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -40,11 +40,11 @@ This week I designed the Power Distribution Board V2. Last Wednesday, it was mad
 
 The new PD Board will have an 8A voltage regulator as well as current and voltage monitoring capabilities.
 
-!["Image of a 3D model of the Power Distribution Board V2"](/img/juniorweek23/back.png)
+!["Image of a 3D model of the Power Distribution Board V2"](/img/junior/juniorweek23/back.png)
 
-!["Image of the top of the Power Distribution Board V2"](/img/juniorweek23/top.png)
+!["Image of the top of the Power Distribution Board V2"](/img/junior/juniorweek23/top.png)
 
-!["Image of the bottom of the Power Distribution Board V2"](/img/juniorweek23/bottom.png)
+!["Image of the bottom of the Power Distribution Board V2"](/img/junior/juniorweek23/bottom.png)
 
 I’m still not 100% sure that the new voltage regulator will fix our problems, but I have no idea what the source of the issue could be if it isn’t the current supply. Even still, having a greater maximum current draw is good, and I continue to learn more about PCB design.
 

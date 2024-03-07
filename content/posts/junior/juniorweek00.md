@@ -4,7 +4,7 @@ date: 2023-09-04
 Summary: "*It’s only two (very short) days."
 tags: ["Robotics Shop Blog","Sunk Robotics"]
 cover:
-    image: "/img/juniorweek00/juniorweek00.webp" # image path/url
+    image: "/img/junior/juniorweek00/juniorweek00.webp" # image path/url
     alt: "Image of a calendar" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true

@@ -6,7 +6,7 @@ tags: ["Machinist's Jack","Manufacturing","Robotics Shop Blog","Sunk Robotics","
 # CAD, CAM, Cameras, Electronics, Electronics Tube, FDM Printing, Frame, General CAD, Laser Cutting, Manufacturing, Milling, Miscellaneous, PCB Design,
 # Robotics Shop Blog, Routing, SLA Printing, Soldering, Sunk Robotics, WAter-Jet Cutting, Watts Water Plaque, General CAD, Machinist's Jack, Turning
 cover:
-    image: "/img/juniorweek21/jack.webp" # image path/url
+    image: "/img/junior/juniorweek21/jack.webp" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -38,7 +38,7 @@ editPost:
 
 This has been a very lathe-filled week.
 
-!["Image of my Machinist's Jack"](/img/juniorweek21/jacka.webp)
+!["Image of my Machinist's Jack"](/img/junior/juniorweek21/jacka.webp)
 
 My Machinist’s Jack is complete. It’s….. mostly flat, although it a bit wiggly when fully extended. I might make another so the shop has a set later, but that’s not something I’m going to do soon, I’m done with the lathe for the time being.
 

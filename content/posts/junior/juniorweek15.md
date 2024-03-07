@@ -4,7 +4,7 @@ date: 2023-12-14
 Summary: "The ESC Board v2 is ordered! Also a bunch of Water-Jet stuff."
 tags: ["CAD","CAM","Electronics Tube","General CAD","Manufacturing","PCB Design","Robotics Shop Blog","Sunk Robotics","Water-Jet Cutting"]
 cover:
-    image: "/img/juniorweek15/omax.jpg" # image path/url
+    image: "/img/junior/juniorweek15/omax.jpg" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -36,11 +36,11 @@ editPost:
 
 This week was rather slow, as the two projects I’ve been working on, the electronics for JONA ROV and the cameras for JONA ROV, need parts that I have to wait to arrive.
 
-!["Image of the ESC Board V2"](/img/juniorweek15/pcb.png)
+!["Image of the ESC Board V2"](/img/junior/juniorweek15/pcb.png)
 
 The parts I needed for the electronics for JONA ROV arrived Wednesday, so I spent a majority of that day working on the ESC Board v2. The 3-pin XT30 connectors arrived and I needed to test the footprints I’d downloaded. It was a good thing that I did, as they were not correct and I needed to edit them to fit the parts. The 3-pin XT30 connectors were the last parts I needed to test, so with that done we ordered the board. They should arrive sometime next week.
 
-!["Image of the OMAX 2626 Jet Machining Center"](/img/juniorweek15/omax.jpg)
+!["Image of the OMAX 2626 Jet Machining Center"](/img/junior/juniorweek15/omax.jpg)
 
 Mr. Christy wanted me to write a guide for our *OMAX 2626 PRECISION JETMACHINING CENTER*, so far, I’ve written a text guide, but I will add pictures.
 
@@ -122,6 +122,6 @@ Turn off power
 ```
 {{< /details >}}
 
-!["Image of my christmas gift"](/img/juniorweek15/metal.webp)
+!["Image of my christmas gift"](/img/junior/juniorweek15/metal.webp)
 
 Because I didn’t have much to work on this week, I started work on a Christmas gift for one of my family members. I cut and bent this piece of 1/8″ aluminum, and I intend to spray-paint it black and then laser-engrave a design on it.
