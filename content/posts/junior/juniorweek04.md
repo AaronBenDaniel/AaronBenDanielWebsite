@@ -36,9 +36,9 @@ editPost:
 
 This week was a 4-day week, so I got less done this week than I normally would.
 
-!["Image of the Watter Water Plaque"](/img/junior/juniorweek04/plaquehigh.webp)
+!["Image of the Watts Water Plaque"](/img/junior/juniorweek04/plaquehigh.webp)
 
-!["Image of the Watter Water Plaque"](/img/junior/juniorweek04/plaquefancy.webp)
+!["Image of the Watts Water Plaque"](/img/junior/juniorweek04/plaquefancy.webp)
 
 I finally finished the plaque for Watts Water, and it looks pretty good! I’m quite disappointed that my CNC engraved idea didn’t work out. I ended up just spray painting the metal sheet and then laser-engraving the text into it. The upside to this method is that I can do solid shapes and logos, instead of just lines.
 

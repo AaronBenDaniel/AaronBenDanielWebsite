@@ -122,6 +122,6 @@ Turn off power
 ```
 {{< /details >}}
 
-!["Image of my christmas gift"](/img/junior/juniorweek15/metal.webp)
+!["Image of my Christmas gift"](/img/junior/juniorweek15/metal.webp)
 
 Because I didn’t have much to work on this week, I started work on a Christmas gift for one of my family members. I cut and bent this piece of 1/8″ aluminum, and I intend to spray-paint it black and then laser-engrave a design on it.

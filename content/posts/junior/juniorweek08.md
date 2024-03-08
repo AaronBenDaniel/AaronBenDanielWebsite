@@ -52,10 +52,10 @@ Mr. Christy and I attempted to solder a Blue Robotics ESC to one of the boards, 
 
 Thursday I soldered all of the connectors onto one of the ESC PCBs. We’re going to need two of them in the end, so we can test soldering ESCs onto another board and we can use the one I soldered today once we have perfected the process.
 
-!["Image of the electornics tube"](/img/junior/juniorweek08/tube.webp)
+!["Image of the electronics tube"](/img/junior/juniorweek08/tube.webp)
 
-!["Image of the electornics tube"](/img/junior/juniorweek08/tubeside.webp)
+!["Image of the electronics tube"](/img/junior/juniorweek08/tubeside.webp)
 
-!["Image of the electornics tube"](/img/junior/juniorweek08/tubethrough.webp)
+!["Image of the electronics tube"](/img/junior/juniorweek08/tubethrough.webp)
 
 Our 6 inch tube also came in on Wednesday! I put together the tube flanges we had already received, lubricated them, mounted the electronics frame I had made a few weeks before, and put everything together. It looks pretty good! I can finally begin to see the electronics enclosure I’ve spent so much time designing beginning to come together!

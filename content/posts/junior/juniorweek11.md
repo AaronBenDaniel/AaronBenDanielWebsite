@@ -40,10 +40,10 @@ The MITRE trip is on Monday and I spent this week trying to get as much of JONA 
 
 !["Image of JONA ROV"](/img/junior/juniorweek11/jonatop.webp)
 
-We got some pool time on both Monday and Wednesday, which was very helpful especially for our previous year’s ROV S.T.E.V.E., as we’re going to demo it at MITRE’s Blue Tech Lab. JONA ROV also had it’s inagural swim on Monday. We assembled all of the penetrators Monday in-class and were able to put it into the pool after school. At the moment, JONA ROV is very positivly bouyant, so we’ll need to add weights to it in order to maintain neutral bouyacy.
+We got some pool time on both Monday and Wednesday, which was very helpful especially for our previous year’s ROV S.T.E.V.E., as we’re going to demo it at MITRE’s Blue Tech Lab. JONA ROV also had it’s inaugural swim on Monday. We assembled all of the penetrators Monday in-class and were able to put it into the pool after school. At the moment, JONA ROV is very positively buoyant, so we’ll need to add weights to it in order to maintain neutral buoyancy.
 
 !["Image of the electronics for JONA ROV"](/img/junior/juniorweek11/electronics.webp)
 
 !["Image of the electronics for JONA ROV"](/img/junior/juniorweek11/electronicsa.webp)
 
-Unfortunantly, I do not believe the JONA ROV will be functional by Monday, and we won’t be able to demo it in MITRE’s pool. We don’t have enough crimps for the thrusters, so we can’t connect them to the ESC PCBs. Other than that, though, the electronics for JONA ROV are done! (Although they have not been tested yet)
+Unfortunately, I do not believe the JONA ROV will be functional by Monday, and we won’t be able to demo it in MITRE’s pool. We don’t have enough crimps for the thrusters, so we can’t connect them to the ESC PCBs. Other than that, though, the electronics for JONA ROV are done! (Although they have not been tested yet)
