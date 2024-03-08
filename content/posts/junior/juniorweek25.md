@@ -36,7 +36,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-JONA ROV has been experiencing major power stability problems with its 5V system. I've been attempting to islote and solve the problem for... a while, and I'm still not really any closer to solving it.
+JONA ROV has been experiencing major power stability problems with its 5V system. I've been attempting to isolate and solve the problem for... a while, and I'm still not really any closer to solving it.
 
 !["Image of the new power distribution board"](/img/junior/juniorweek25/PXL_20240307_163657954.webp)
 
@@ -44,4 +44,4 @@ The new Power Distribution Board is done and it has quite the janky capacitor+di
 
 !["Image of the 5V capacitors"](/img/junior/juniorweek25/PXL_20240307_163704010.webp)
 
-I tried adding some capacitors to the 5V system and they do help, but they also make turning the ROV on a bit of a hassle. The RPi5 is fussy with how it recieves power and the capacitors interfere wth it turning on smoothly. I ended up added a 2.2mF capacitor and a 2.5F supercapacitor.
+I tried adding some capacitors to the 5V system and they do help, but they also make turning the ROV on a bit of a hassle. The RPi5 is fussy with how it receives power and the capacitors interfere with it turning on smoothly. I ended up adding a 2.2mF capacitor and a 2.5F supercapacitor.
