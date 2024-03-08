@@ -40,12 +40,12 @@ On Monday I tested the feasibility of re-programming the ESCs to change the star
 
 !["Image of esc-configurator.com"](/img/junior/juniorweek24/esc.png)
 
-I spent Tuesday soldering and debugging the 2.5V voltage reference for the ADC. It is by far the smallest component I've ever soldered and I ended up using the hot plate to solder it, as the hot air gun would blow the part away even on it's lowest air setting.
+I spent Tuesday soldering and debugging the 2.5V voltage reference for the ADC. It is by far the smallest component I've ever soldered and I ended up using the hot plate to solder it, as the hot air gun would blow the part away even on its lowest air setting.
 
 !["Image of the front of the new Power Distribution Board"](/img/junior/juniorweek24/front.webp)
 
 !["Image of the back of the new Power Distribution Board"](/img/junior/juniorweek24/back.jpg)
 
-On Wednesday I began soldering on the other components, and after school Shane and I discovered that the ADC has it's own voltage reference and no VREF pin... So the voltage reference on the PCB is useless.
+On Wednesday I began soldering on the other components, and after school Shane and I discovered that the ADC has its own voltage reference and no VREF pin... So the voltage reference on the PCB is useless.
 
-We also discovered that the ROV is broken. During the process of once more reducing votlage drop, something broke and I2C stopped working. I *think* that the problem is with the 9-axs IMU, but I am not 100% sure and need to do some additional debugging.
+We also discovered that the ROV is broken. During the process of once more reducing voltage drop, something broke and I2C stopped working. I *think* that the problem is with the 9-axs IMU, but I am not 100% sure and need to do some additional debugging.
