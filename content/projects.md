@@ -34,7 +34,7 @@ Almost all of my in-shop time is spent working on something related to Sunk Robo
 
 ### 2023-2024
 
-### JONA ROV Frame - FUNCTIONAL:
+### JONA ROV Frame:
 
 !["Image of JONA ROV"](/img/projects/jonaleft.webp)
 
@@ -46,7 +46,7 @@ For our 2023-2024 year, Sunk Robotics decided to build an entirely new ROV Frame
 
 *See posts about the {{< linktotag "frame" "JONA ROV Frame">}}*
 
-### JONA ROV Electronics Enclosure – UNDER REVISION:
+### JONA ROV Electronics Enclosure:
 
 !["Image of JONA ROV Electronics"](/img/projects/electronicsphoto.webp)
 
