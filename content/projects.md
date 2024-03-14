@@ -42,7 +42,7 @@ Almost all of my in-shop time is spent working on something related to Sunk Robo
 
 !["Image of JONA ROV"](/img/projects/jonabottom.webp)
 
-For our 2023-2024 year, Sunk Robotics decided to build an entirely new ROV Frame. The major reason for this was to increase our thruster count from 6 to 8. The additional thrusters will allow for far greater lift capacity and pitch control. As of January 2024, the frame is functional but lacks a few finishing touches.
+For our 2023-2024 year, Sunk Robotics decided to build an entirely new ROV Frame. The major reason for this was to increase our thruster count from 6 to 8. The additional thrusters will allow for far greater lift capacity and pitch control. As of March 2024, the frame is functional but lacks a few finishing touches.
 
 *See posts about the {{< linktotag "frame" "JONA ROV Frame">}}*
 
@@ -58,7 +58,7 @@ For our 2023-2024 year, Sunk Robotics decided to build an entirely new ROV Frame
 
 For our 2023-2024 year, the Robotics Team decided to switch from a 4in tube to a 6in tube. Redesigning the frame was the perfect opportunity to do this. Changing the size of our tube required a design of our electronics system. We wanted to transition away from a literally wooden plank and instead wanted a cleaner and more professional solution. Our new design features a frame that holds up to 6 custom PCBs. This new design is far cleaner than our previous design, much more reliable, and looks… safer. This project is now complete, although small changes and additions may be made in the future, its core functionality is done.
 
-**As of March 2024, I am remaking the Power Distribution and considering remaking the Ethernet Switch Boards as well as making a number of small improvements to reduce resistance along the 5V system.**
+**As of March 2024, I am remaking the Ethernet Switch and Logic Boards as well as considering remaking the Power Distribution Board... again.**
 
 *See posts about the {{< linktotag "electronics-tube" "JONA ROV Electronics Enclosure">}}*
 
