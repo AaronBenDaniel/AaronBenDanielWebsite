@@ -1,12 +1,12 @@
 ---
-title: "Junior Week 26"
-date: 2024-03-14
-Summary: "More PCB redesigning"
+title: "Junior Week 27"
+date: 2024-03-21
+Summary: "PCBs orbered.... and designing more"
 tags: ["Electronics","Electronics Tube","Miscellaneous","Robotics Shop Blog","Sunk Robotics"]
 # CAD, CAM, Cameras, Electronics, Electronics Tube, FDM Printing, Frame, General CAD, Laser Cutting, Manufacturing, Milling, Miscellaneous, PCB Design,
 # Robotics Shop Blog, Routing, SLA Printing, Soldering, Sunk Robotics, WAter-Jet Cutting, Watts Water Plaque, General CAD, Machinist's Jack, Turning
 cover:
-    image: "/img/junior/juniorweek26/top.webp" # image path/url
+    image: "/img/junior/juniorweek27/.webp" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -36,11 +36,9 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-I spent this week continuing to increase reliability in JONA ROV's 5V power system, with more success than last week. JONA ROV can reliably function without random shutdowns, but powering it on is now a bit of an ordeal and the bottom camera no longer works. Fortunately, the cause for both of these problems is known. Both are caused by the 2.5F supercapacitor I added to solve the random shutdowns.
+This week I verified that the PCBs I designed last week were good. I didn't find any issues, so they got ordered.
 
-!["Image of the new logic board"](/img/junior/juniorweek26/logic.webp)
-
-Miles Hilliard came up with the solution I'm going to implement. He suggested that the capacitor be, by default, disconnected from the 5V power system through an NPN or MOSFET, and only be connect to the system by the RPi5 after its finished booting. Miles and Shane designed the circuit to control the capacitor, and I made the necessary modifications to the Logic Board. I hope to order this new Logic Board soon.
+This 
 
 !["Image of the top of the new ethernet switch board"](/img/junior/juniorweek26/top.webp)
 
