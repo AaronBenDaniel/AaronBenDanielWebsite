@@ -1,6 +1,7 @@
 ---
 title: "Projects" #EDIT
 date: 2020-09-15T11:30:03+00:00 3EDIT
+Summary: "A list of the projects I've completed"
 # weight: 1
 author: "Aaron BenDaniel"
 disableHLJS: true # to disable highlightjs
