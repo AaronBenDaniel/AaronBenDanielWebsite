@@ -46,4 +46,10 @@ The new switch works great, and not only does the RPi have a gigabit connection 
 
 The third version of the Power Distribution Board is done, but I'm waiting or order it until Scott has finished a PCB of his own. The shipping cost from JLCPCB is about the same as the PCBs themselves, so we are trying to consolidate orders to save on shipping. The new board features a fully isolated 5V power system, with a new regulator and opto-isolators. The board also continues the migration effort towards XT30 connectors and has some holes to accommodate a servo for our prospective gripper.
 
-I *think* other than the PDBoard V3, my current projects for the robotics team are mostly done, which means I'll be open to start another personal project. I'll need to think of something to do.
+I *think* other than the PDBoard V3, my current projects for the robotics team are mostly done, which means I'll be open to start another personal project. ~~I'll need to think of something to do.~~ **UPDATE BELOW**
+
+**UPDATE:**
+
+!["Image of my prototype shelf"](/img/junior/juniorweek29/shelf.webp)
+
+Thursday after school Matty wanted to make some backups of the Tube Cameras' SD cards. While he was doing that, I decided to begin designing a shelf to add to our cart. We're having serious organizational problems with the cart, and while I intend to fix them, they will just reappear without a better solution. My solution is to create an additional level for storage that will be organized to hold miscellaneous parts, while the bottom level is for more staple things.
