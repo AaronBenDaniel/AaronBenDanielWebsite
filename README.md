@@ -6,3 +6,5 @@ My website, made for my Robotics & Engineering blog.
 [Hosted on Netlify](https://aaronbendaniel.netlify.app/)
 
 Built with Hugo, based on PaperMod
+
+[![Screenshot of the front page of the website (as of 2024-04-04)](https://github.com/AaronBenDaniel/AaronBenDanielWebsite/blob/main/static/img/other/frontpage.webp)]
