@@ -7,7 +7,7 @@ tags: ["Miscellaneous","Robotics Shop Blog","Sunk Robotics"]
 # CAD, CAM, Cameras, Electronics, Electronics Tube, FDM Printing, Frame, General CAD, Laser Cutting, Manufacturing, Milling, Miscellaneous, PCB Design,
 # Robotics Shop Blog, Routing, SLA Printing, Soldering, Sunk Robotics, Water-Jet Cutting, Watts Water Plaque, General CAD, Machinist's Jack, Turning
 cover:
-    image: "/img/junior/juniorweek31/sid.webp" # image path/url
+    image: "/img/junior/juniorweek31/cover.webp" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -41,7 +41,7 @@ April break was last week, the robotics team did a lot of practice over the week
 
 Of course, we will continue to practice, but hopefully we should be pretty good for the competion now.
 
-!["Image of the cover of the draft of our regional Tec-Doc"](/img/junior/juniorweek31/cover.webp)
+!["Image of the SID for JONA ROV"](/img/junior/juniorweek31/sid.webp)
 
 All of our documention is due on April 26, so this week we've been extremely busy writing it. I wrote a bunch of stuff a while ago, so we haven't actually needed to write *everything* this week. But still, we did end up writing quite a bit.
 
