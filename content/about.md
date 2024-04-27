@@ -27,6 +27,6 @@ My name is Aaron BenDaniel, I am a junior (class of 2025) at the Medford Vocatio
 
 I am interested in general engineering, CAD, PCB Design, CNC milling, and manufacturing.
 
-I have experience in parametric 3D modeling, PCB design, Computer Aided Machining with Fusion 360, as well as Arduino, Python, and general electrical design.
+I have experience in parametric 3D modeling, PCB design, and Computer Aided Machining with Fusion 360, as well as Arduino, Python, C, and general electrical design.
 
 I have experience with Tormach CNC mills, OMAX water jet cutters, Techno CNC routers, Techno plasma cutters, manual mills, manual lathes, Epilog laser engravers, Formlabs resin printers, and FDM printers.
