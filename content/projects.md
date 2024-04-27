@@ -57,9 +57,9 @@ For our 2023-2024 year, Sunk Robotics decided to build an entirely new ROV Frame
 
 !["Image of JONA ROV Electronics"](/img/projects/electronicscadnotube.webp)
 
-For our 2023-2024 year, the Robotics Team decided to switch from a 4in tube to a 6in tube. Redesigning the frame was the perfect opportunity to do this. Changing the size of our tube required a design of our electronics system. We wanted to transition away from a literally wooden plank and instead wanted a cleaner and more professional solution. Our new design features a frame that holds up to 6 custom PCBs. This new design is far cleaner than our previous design, much more reliable, and looks… safer. This project is now complete, although small changes and additions may be made in the future, its core functionality is done.
+For our 2023-2024 year, the Robotics Team decided to switch from a 4in tube to a 6in tube. Redesigning the frame was the perfect opportunity to do this. Changing the size of our tube required a design of our electronics system. We wanted to transition away from a literal wooden plank and instead wanted a cleaner and more professional solution. Our new design features a frame that holds up to 6 custom PCBs. This new design is far cleaner than our previous design, much more reliable, and looks… safer. This project is now complete, although small changes and additions may be made in the future, its core functionality is done.
 
-**As of March 2024, I am remaking the Ethernet Switch and Logic Boards as well as considering remaking the Power Distribution Board... again.**
+**As of April 2024, I am remaking the Power Distribution Board... again.**
 
 *See posts about the {{< linktotag "electronics-tube" "JONA ROV Electronics Enclosure">}}*
 
