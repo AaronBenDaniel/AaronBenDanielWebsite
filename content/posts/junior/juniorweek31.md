@@ -37,12 +37,12 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-April break was last week, the robotics team did a lot of practice over the week and Jonas is hopefully well expierenced in piloting JONA now.
+April break was last week, the robotics team did a lot of practice over the week and Jonas is hopefully well experienced in piloting JONA now.
 
-Of course, we will continue to practice, but hopefully we should be pretty good for the competion now.
+Of course, we will continue to practice, but hopefully we should be pretty good for the competition now.
 
 !["Image of the SID for JONA ROV"](/img/junior/juniorweek31/sid.webp)
 
-All of our documention is due on April 26, so this week we've been extremely busy writing it. I wrote a bunch of stuff a while ago, so we haven't actually needed to write *everything* this week. But still, we did end up writing quite a bit.
+All of our documentation is due on April 26, so this week we've been extremely busy writing it. I wrote a bunch of stuff a while ago, so we haven't actually needed to write *everything* this week. But still, we did end up writing quite a bit.
 
 I also made an SID for JONA, which introduced me to the webapp LucidChart. It's.... fine, but there are a few things that I find annoying about it.
