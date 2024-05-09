@@ -43,6 +43,6 @@ I organized everthing we're planning to bring to the regional, I hope it's every
 
 I soldered a replacement ESC Board. I hope we won't need it, but the ESCs have been the most unreliable part of JONA and they may break. The motor connectors aren't soldered on yet as the two different ESC boards have different connectors. Those will be soldered on at the regional if we end up needing the board
 
-{{< figure src="/img/junior/juniorweek32/christy.webp" width="1000" caption="This image is actually from last week, but I didn't get a picture of the part." alt="Image of Mr. Christy's part">}}
+{{< figure src="/img/junior/juniorweek32/christy.webp" width="1000" caption="This image is actually from last week, as I didn't get a picture of the part." alt="Image of Mr. Christy's part">}}
 
 Mr. Christy also needed me to mill some more parts for him. The ones I did last week were 100mils too small (the holes) so Mr. Christy needed to recut them and have me re-chamfer them.
