@@ -37,7 +37,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-I organized everthing we're planning to bring to the regional, I hope it's everything we'll need. I'll try to pack all of this this into the yellow Pelican case, but I doubt it'll all fit. We might need to use one of the large black cases. Also those are technically still Eben's......
+I organized everything we're planning to bring to the regional, I hope it's everything we'll need. I'll try to pack all of this this into the yellow Pelican case, but I doubt it'll all fit. We might need to use one of the large black cases. Also those are technically still Eben's......
 
 !["Image of the ESC Board"](/img/junior/juniorweek33/board.webp)
 
