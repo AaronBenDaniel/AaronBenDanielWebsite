@@ -38,4 +38,6 @@ editPost:
 
 Here is the link to my Water Jet Guide:
 
-{{< linknewtab "https://docs.google.com/presentation/d/18Ct_nLgRmGJVEYIGeXUzbjGuyYpuIFuorEzUfgsBD80/edit?usp=sharing" "OMAX 2626 JET MACHINING CENTER Guide" >}}
+Google Slides: {{< linknewtab "https://docs.google.com/presentation/d/18Ct_nLgRmGJVEYIGeXUzbjGuyYpuIFuorEzUfgsBD80/edit?usp=sharing" "OMAX 2626 JET MACHINING CENTER Guide" >}}
+
+PDF: {{< linknewtab "aaronbendaniel.netlify.app/img/OMAX 2626 JET MACHINING CENTER Guide.pdf" "OMAX 2626 JET MACHINING CENTER Guide" >}}
