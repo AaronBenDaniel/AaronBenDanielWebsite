@@ -39,7 +39,7 @@ editPost:
 
 This week has been mainly taken up with my assembling of our 50ft tether. We originally built a 100ft tether because we didn't want to ever run into a scenario where we didn't have a long enough tether, but it turns out that the tether *can* be too long. JONA ROV works as is, but there is a significant voltage drop on the ROV side while drawing a large amount of current. The shorter tether should significantly reduce voltage drop, while still being more than long enough for the MATE ROV Competition.
 
-We're building a whole new tether, so we'll still have our 100ft tether, so if we ever need the extra range it'll be available.
+We're building a whole new tether, so we'll still have our 100ft tether if we ever need the extra range.
 
 !["Image of the epoxy"](/img/junior/juniorweek36/epoxy.webp)
 
@@ -49,4 +49,4 @@ Midway through the week, it looked like we'd need to put a hold on the 50ft teth
 
 We've been having a very annoying and potentially competition-costing problem where the bottom camera is *very* inconsistent to turn on. Once it's on, it's stable, but getting it to turn on is a big pain and can take quite a few power cycles. I never really figured out the problem, as (in theory) the hardware in the bottom camera is identical to the back camera, which has had no issues whatsoever.
 
-I had a hunch that *maybe* the RPi in the bottom camera was somehow broken or otherwise just less resilient to wonky power-ons, like what the ROV does on startup. I switched the hardware out for another camera module I had and, while I haven't done massivly extensive testing yet, it appears to have solved the problem. Hopefully this will significantly improve the reliabiltiy of JONA ROV.
+I had a hunch that *maybe* the RPi in the bottom camera was somehow broken or otherwise just less resilient to wonky power-ons, like what the ROV does on startup. I switched the hardware out for another camera module I had and, while I haven't done massively extensive testing yet, it appears to have solved the problem. Hopefully this will significantly improve the reliability of JONA ROV.
