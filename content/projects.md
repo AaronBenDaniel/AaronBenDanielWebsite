@@ -27,7 +27,7 @@ editPost:
 
 I am a founding member of the Medford Robotics Team. Named {{< linknewtab "https://sunkrobotics.com/" "Sunk Robotics" >}}, we participate in the Ranger class of the {{< linknewtab "https://materovcompetition.org/" "MATE ROV Competition" >}}. The MATE ROV Competition is an international underwater robotics competition that challenges students of all ages to build, operate, and speak about underwater remotely operated vehicles (ROVs). Sunk Robotics participates in the Ranger class, which is for high school-age teams. And have advanced to the international level twice (2022 & 2023).
 
-I primarily help with building and maintaining the hardware of our robot. I worked on the electrical and camera systems for our 2022 & 2023 ROV, S.T.EV.E. (pictured above). Currently, I’m working on the frame, electrical, and camera systems of our 2024 ROV, JONA.
+I primarily help with building and maintaining the hardware of our robot. I worked on the electrical and camera systems for our 2022 & 2023 ROV, S.T.EV.E.. Currently, I’m working on the frame, electrical, and camera systems of our 2024 ROV, JONA (pictured above).
 
 Almost all of my in-shop time is spent working on something related to Sunk Robotics.
 
