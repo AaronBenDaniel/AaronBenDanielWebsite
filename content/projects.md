@@ -59,8 +59,6 @@ For our 2023-2024 year, Sunk Robotics decided to build an entirely new ROV Frame
 
 For our 2023-2024 year, the Robotics Team decided to switch from a 4in tube to a 6in tube. Redesigning the frame was the perfect opportunity to do this. Changing the size of our tube required a design of our electronics system. We wanted to transition away from a literal wooden plank and instead wanted a cleaner and more professional solution. Our new design features a frame that holds up to 6 custom PCBs. This new design is far cleaner than our previous design, much more reliable, and looks… safer. This project is now complete, although small changes and additions may be made in the future, its core functionality is done.
 
-**As of April 2024, I am remaking the Power Distribution Board... again.**
-
 *See posts about the {{< linktotag "electronics-tube" "JONA ROV Electronics Enclosure">}}*
 
 ### Watts Water Plaque:
@@ -93,7 +91,7 @@ During our 2022-2023 year, although the Tube Cameras worked well, the way they h
 
 !["Image of the Tube Camera"](/img/projects/tubecameraoldcad.webp)
 
-During our 2022-2023 year, we made two major improvements to S.T.E.V.E.: The gripper, and the camera system. I focused on cameras for almost the entirety of the year and designed a multitude of cameras, but ultimately we decided one standard camera design was best. I focused my attention on the best design I’d made, which was the Tube Camera. The Bottom Camera was, for many reasons, a bad design, but the worst aspect of it was how long it took to disassemble and reassemble. The fasteners used to attach the face plate took a very long time to put together. This made maintenance very difficult. The Tube Camera, however, utilizes a custom O-ring seal instead of fasteners. This drastically reduced the time it took to put together, and was a major improvement. It was also far smaller, so it could feasibly be mounted facing forward and backward instead of exclusively down. The Tube Camera is (as of October 2023) still in use on JONA ROV.
+During our 2022-2023 year, we made two major improvements to S.T.E.V.E.: The gripper, and the camera system. I focused on cameras for almost the entirety of the year and designed a multitude of cameras, but ultimately we decided one standard camera design was best. I focused my attention on the best design I’d made, which was the Tube Camera. The Bottom Camera was, for many reasons, a bad design, but the worst aspect of it was how long it took to disassemble and reassemble. The fasteners used to attach the face plate took a very long time to put together. This made maintenance very difficult. The Tube Camera, however, utilizes a custom O-ring seal instead of fasteners. This drastically reduced the time it took to put together, and was a major improvement. It was also far smaller, so it could feasibly be mounted facing forward and backward instead of exclusively down. The Tube Camera is still in use on JONA ROV.
 
 ### 2021-2022
 
