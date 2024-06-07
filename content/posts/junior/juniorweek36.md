@@ -2,7 +2,7 @@
 ---
 title: "Junior Week 36"
 date: 2024-05-30
-Summary: "Editing our documentation for the international competition"
+Summary: "Beginning contruction of the 50ft tether"
 tags: ["Cameras","Electronics","Miscellaneous","Robotics Shop Blog","Sunk Robotics"]
 # CAD, CAM, Cameras, Electronics, Electronics Tube, FDM Printing, Frame, General CAD, Laser Cutting, Manufacturing, Milling, Miscellaneous, PCB Design,
 # Robotics Shop Blog, Routing, SLA Printing, Soldering, Sunk Robotics, Water-Jet Cutting, Watts Water Plaque, General CAD, Machinist's Jack, Turning
