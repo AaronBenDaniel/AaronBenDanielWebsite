@@ -25,11 +25,9 @@ editPost:
 
 {{< figure src="/img/projects/jonarov.png" width="1000" caption="JONA ROV, Sunk Robotics' newest edition to its fleet" alt="Image of JONA ROV">}}
 
-I am a founding member of the Medford Robotics Team. Named {{< linknewtab "https://sunkrobotics.com/" "Sunk Robotics" >}}, we participate in the Ranger class of the {{< linknewtab "https://materovcompetition.org/" "MATE ROV Competition" >}}. The MATE ROV Competition is an international underwater robotics competition that challenges students of all ages to build, operate, and speak about underwater remotely operated vehicles (ROVs). Sunk Robotics participates in the Ranger class, which is for high school-age teams. And have advanced to the international level twice (2022 & 2023).
+I am a founding member of the Medford Robotics Team. Named {{< linknewtab "https://sunkrobotics.com/" "Sunk Robotics" >}}, we participate in the Ranger class of the {{< linknewtab "https://materovcompetition.org/" "MATE ROV Competition" >}}. The MATE ROV Competition is an international underwater robotics competition that challenges students of all ages to build, operate, and speak about underwater remotely operated vehicles (ROVs). Sunk Robotics participates in the Ranger class, which is for high school-age teams and have advanced to the international leve three times (2022, 2023, and 2024).
 
-I primarily help with building and maintaining the hardware of our robot. I worked on the electrical and camera systems for our 2022 & 2023 ROV, S.T.EV.E.. Currently, I’m working on the frame, electrical, and camera systems of our 2024 ROV, JONA (pictured above).
-
-Almost all of my in-shop time is spent working on something related to Sunk Robotics.
+I primarily help with building and maintaining the hardware of our robot. I worked on the electrical and camera systems for our 2022 & 2023 ROV, S.T.EV.E., and the camera, electrical, and mechanical systems for our 2024 ROV, JONA.
 
 ## Projects from Sunk Robotics:
 
