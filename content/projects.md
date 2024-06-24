@@ -41,7 +41,7 @@ I primarily help with building and maintaining the hardware of our robot. I work
 
 !["Image of JONA ROV"](/img/projects/jonabottom.webp)
 
-For our 2023-2024 year, Sunk Robotics decided to build an entirely new ROV Frame. The major reason for this was to increase our thruster count from 6 to 8. The additional thrusters will allow for far greater lift capacity and pitch control. As of March 2024, the frame is functional but lacks a few finishing touches.
+For our 2023-2024 year, Sunk Robotics decided to build an entirely new ROV Frame. The major reason for this was to increase our thruster count from 6 to 8. The additional thrusters will allow for far greater lift capacity and pitch control.
 
 *See posts about the {{< linktotag "frame" "JONA ROV Frame">}}*
 
@@ -148,7 +148,7 @@ My lightbox has a variety of display modes:
 
 {{< youtube OuZklNt7EmY >}}
 
-Near the end of my sophomore year in the Robotics & Engineering shop, I wanted to learn more about our Tormach PCNC 1100 4th axis extension. I decided that I wanted to mill a complex 3D object and settled on a portrait bust of a human head. This project is (as of October 2023) the most complex 4th-axis milling project in the shop. 
+Near the end of my sophomore year in the Robotics & Engineering shop, I wanted to learn more about our Tormach PCNC 1100 4th axis extension. I decided that I wanted to mill a complex 3D object and settled on a portrait bust of a human head. This project is (as of June 2024) the most complex 4th-axis milling project in the shop. 
 
 ## Machinist's Jack
 
