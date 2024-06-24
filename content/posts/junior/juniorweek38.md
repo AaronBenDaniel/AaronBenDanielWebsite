@@ -8,9 +8,6 @@ tags: ["Miscellaneous","Robotics Shop Blog","Sunk Robotics"]
 # Robotics Shop Blog, Routing, SLA Printing, Soldering, Sunk Robotics, Water-Jet Cutting, Watts Water Plaque, General CAD, Machinist's Jack, Turning
 cover:
     image: "/img/junior/juniorweek38/mate.webp" # image path/url
-    alt: "" # alt text
-    caption: "" # display caption under cover
-    relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 draft: false
 
@@ -19,17 +16,13 @@ author: "Aaron BenDaniel"
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
 disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
-ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 editPost:
     URL: "https://github.com/AaronBenDaniel/AaronBenDanielWebsite/blob/main/content"
