@@ -23,7 +23,7 @@ editPost:
 
 {{< figure src="/img/other/pfp.webp" width="500" >}}
 
-My name is Aaron BenDaniel, I am a junior (class of 2025) at the Medford Vocational Technical High School in Medford, Massachusetts. I am in the Robotics & Engineering vocational shop and am a member of the Medford Robotics Team, Sunk Robotics. Sunk Robotics is a two-time international competitor in the MATE ROV Competition.
+My name is Aaron BenDaniel, I am a junior (class of 2025) at the Medford Vocational Technical High School in Medford, Massachusetts. I am in the Robotics & Engineering vocational shop and am a member of the Medford Robotics Team, Sunk Robotics. Sunk Robotics is a three-time international competitor in the MATE ROV Competition.
 
 I am interested in general engineering, CAD, PCB Design, CNC milling, and manufacturing.
 
