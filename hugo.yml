@@ -69,7 +69,7 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/aaron-bendaniel-43747a29b/"
     - name: email
-      url: "mailto:blueaaron07@gmail.com"
+      url: "mailto:abendaniel@proton.me"
 
   editPost:
     URL: "https://github.com/AaronBenDaniel/AaronBenDanielWebsite"
