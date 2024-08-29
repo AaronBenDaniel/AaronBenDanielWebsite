@@ -1,6 +1,6 @@
 
 ---
-title: "Senior Week 0"
+title: "Senior Week 00"
 date: 2024-08-29
 Summary: "First week of Senior Year"
 tags: ["Miscellaneous","Robotics Shop Blog","Sunk Robotics"]
