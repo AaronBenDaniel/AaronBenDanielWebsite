@@ -3,7 +3,7 @@
 
 My website, made for my Robotics & Engineering blog.
 
-[Hosted on Netlify](https://aaronbendaniel.netlify.app/)
+[Hosted on Netlify](https://abendaniel.top/)
 
 Built with Hugo, based on PaperMod
 
