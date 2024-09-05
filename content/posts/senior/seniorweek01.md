@@ -38,4 +38,4 @@ I also began figuring out what hardware I want in my Micromouse. I originally wa
 
 !["Image of the water jet"](/img/senior/seniorweek01/waterJet.webp)
 
-In the beginning part of the week, I helped [William Tseng](https://willvictor82.wordpress.com/) clean the water jet cutter. It hadn't been cleaned in... longer than it's been at the shop, and together we managed to should out quite a few 5-gallon buckets worth of abrasive. We were shoveling out far more than just the garnet we use at the shop, there were lots of other materials in there, most likely from previous owners.
+In the beginning part of the week, I helped [William Tseng](https://willvictor82.wordpress.com/) clean the water jet cutter. It hadn't been cleaned in... longer than it's been at the shop, and together we managed to shovel out quite a few 5-gallon buckets worth of abrasive. We were shoveling out far more than just the garnet we use at the shop, there were lots of other materials in there, most likely from previous owners.
