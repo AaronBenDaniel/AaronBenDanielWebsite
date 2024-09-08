@@ -25,7 +25,7 @@ editPost:
 
 {{< figure src="/img/projects/jonarov.png" width="1000" caption="JONA ROV, Sunk Robotics' newest edition to its fleet" alt="Image of JONA ROV">}}
 
-I am a founding member of the Medford Robotics Team. Named {{< linknewtab "https://sunkrobotics.com/" "Sunk Robotics" >}}, we participate in the Ranger class of the {{< linknewtab "https://materovcompetition.org/" "MATE ROV Competition" >}}. The MATE ROV Competition is an international underwater robotics competition that challenges students of all ages to build, operate, and speak about underwater remotely operated vehicles (ROVs). Sunk Robotics participates in the Ranger class, which is for high school-age teams and have advanced to the international leve three times (2022, 2023, and 2024).
+I am a founding member of the Medford Robotics Team. Named {{< linknewtab "https://sunkrobotics.com/" "Sunk Robotics" >}}, we participate in the Ranger class of the {{< linknewtab "https://materovcompetition.org/" "MATE ROV Competition" >}}. The MATE ROV Competition is an international underwater robotics competition that challenges students of all ages to build, operate, and speak about underwater remotely operated vehicles (ROVs). Sunk Robotics participates in the Ranger class, which is for high school-age teams and have advanced to the international level three times (2022, 2023, and 2024).
 
 I primarily help with building and maintaining the hardware of our robot. I worked on the electrical and camera systems for our 2022 & 2023 ROV, S.T.EV.E., and the camera, electrical, and mechanical systems for our 2024 ROV, JONA.
 
@@ -55,7 +55,7 @@ For our 2023-2024 year, Sunk Robotics decided to build an entirely new ROV Frame
 
 !["Image of JONA ROV Electronics"](/img/projects/electronicscadnotube.webp)
 
-For our 2023-2024 year, the Robotics Team decided to switch from a 4in tube to a 6in tube. Redesigning the frame was the perfect opportunity to do this. Changing the size of our tube required a design of our electronics system. We wanted to transition away from a literal wooden plank and instead wanted a cleaner and more professional solution. Our new design features a frame that holds up to 6 custom PCBs. This new design is far cleaner than our previous design, much more reliable, and looks… safer. This project is now complete, although small changes and additions may be made in the future, its core functionality is done.
+For our 2023-2024 year, the Robotics Team decided to switch from a 4in tube to a 6in tube. Redesigning the frame was the perfect opportunity to do this. Changing the size of our tube required a redesign of our electronics system. We wanted to transition away from a literal wooden plank and instead wanted a cleaner and more professional solution. Our new design features a frame that holds up to 6 custom PCBs. This new design is far cleaner than our previous design, much more reliable, and looks… safer.
 
 *See posts about the {{< linktotag "electronics-tube" "JONA ROV Electronics Enclosure">}}*
 
@@ -77,9 +77,9 @@ Our biggest cooperate sponsor, Watts Water Technologies, has continually support
 
 !["Image of the single-cable Tube Camera"](/img/projects/singletubecameranotube.webp)
 
-During our 2022-2023 year, although the Tube Cameras worked well, the way they had two separate wires for each one was a big hassle and a major point of failure. I revised the way they’re connected to the Main Electronics Tube and have combined both 5V power and 100Mbps ethernet into a single CAT 5E cable. The Tube Cameras never utilized the full 1Gbps they were wired with on S.T.E.V.E. I repurposed the unused twisted pairs into 5V power and GND.
+During our 2022-2023 year, although the Tube Cameras worked well, the way they had two separate wires for each one was a big hassle and a major point of failure. I revised the way they’re connected to the Main Electronics Tube and have combined both 5V power and 100Mbps ethernet into a single CAT 5E cable. The Tube Cameras never utilized the full 1Gbps they were wired with on S.T.E.V.E., so I repurposed the unused twisted pairs into 5V power and GND.
 
-*See posts about {{< linktotag "cameras" "JONA ROV's cameras">}}*
+*See posts about {{< linktotag "cameras" "JONA ROV's Cameras">}}*
 
 ### 2022-2023
 
@@ -89,7 +89,7 @@ During our 2022-2023 year, although the Tube Cameras worked well, the way they h
 
 !["Image of the Tube Camera"](/img/projects/tubecameraoldcad.webp)
 
-During our 2022-2023 year, we made two major improvements to S.T.E.V.E.: The gripper, and the camera system. I focused on cameras for almost the entirety of the year and designed a multitude of cameras, but ultimately we decided one standard camera design was best. I focused my attention on the best design I’d made, which was the Tube Camera. The Bottom Camera was, for many reasons, a bad design, but the worst aspect of it was how long it took to disassemble and reassemble. The fasteners used to attach the face plate took a very long time to put together. This made maintenance very difficult. The Tube Camera, however, utilizes a custom O-ring seal instead of fasteners. This drastically reduced the time it took to put together, and was a major improvement. It was also far smaller, so it could feasibly be mounted facing forward and backward instead of exclusively down. The Tube Camera is still in use on JONA ROV.
+During our 2022-2023 year, we made two major improvements to S.T.E.V.E.: The gripper and the camera system. I focused on cameras for almost the entirety of the year and designed a multitude of cameras, but ultimately we decided one standard camera design was best. I focused my attention on the best design I’d made, which was the Tube Camera. The Bottom Camera was, for many reasons, a bad design, but the worst aspect of it was how long it took to disassemble and reassemble. The fasteners used to attach the face plate took a very long time to put together. This made maintenance very difficult. The Tube Camera, however, utilizes a custom O-ring seal instead of fasteners. This drastically reduced the time it took to put together, and was a major improvement. It was also far smaller, so it could feasibly be mounted facing forward and backward instead of exclusively down. The Tube Camera is still in use on JONA ROV.
 
 ### 2021-2022
 
@@ -148,7 +148,7 @@ My lightbox has a variety of display modes:
 
 {{< youtube OuZklNt7EmY >}}
 
-Near the end of my sophomore year in the Robotics & Engineering shop, I wanted to learn more about our Tormach PCNC 1100 4th axis extension. I decided that I wanted to mill a complex 3D object and settled on a portrait bust of a human head. This project is (as of June 2024) the most complex 4th-axis milling project in the shop. 
+Near the end of my sophomore year in the Robotics & Engineering shop, I wanted to learn more about our Tormach PCNC 1100 4th axis extension. I decided that I wanted to mill a complex 3D object and settled on a portrait bust of a human head.
 
 ## Machinist's Jack
 
