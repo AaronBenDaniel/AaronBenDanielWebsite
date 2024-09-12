@@ -30,7 +30,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-I spent the first half of my week attempting to get data from an optical computer mouse with an Arduino board. My intention was to use the (computer) mouse to track xy movement of my (micro) mouse. However, I was ultimately unsuccessful and it appears I will need to find another way to track movement. Probably encoders.
+I spent the first half of my week attempting to get data from an optical computer mouse with an Arduino board. My intention was to use the (computer) mouse to track the xy movement of my (micro) mouse. However, I was ultimately unsuccessful and it appears I will need to find another way to track movement. Probably encoders.
 
 After the disappointing outcome of my exploration into computer mice, I wanted to work on something other than electronics for a few days, so I began refactoring/rewriting my pathfinding code at the suggestion of [Scott Campbell](https://josephscottcampbell.com/), who believed that I could make my implementation of a Flood-Fill pathfinding algorithm significantly more memory efficient.
 
