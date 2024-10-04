@@ -2,7 +2,7 @@
 ---
 title: "Senior Week 05"
 date: 2024-10-03
-Summary: "Designing my Micromouse"
+Summary: "Making some tiny parts"
 tags: ["CAD","General CAD","Electronics","Micromouse","Programming","Robotics Shop Blog"]
 # CAD, CAM, Cameras, Electronics, Electronics Tube, FDM Printing, Frame, General CAD, Laser Cutting, Manufacturing, Micromouse, Milling, Miscellaneous, PCB Design,
 # Programming, Robotics Shop Blog, Routing, SLA Printing, Soldering, Sunk Robotics, Water-Jet Cutting, Watts Water Plaque, Machinist's Jack, Turning
