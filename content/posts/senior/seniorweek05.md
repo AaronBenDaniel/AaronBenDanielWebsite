@@ -42,4 +42,4 @@ They spin together smoothly, but I got the hole diameter wrong on the wheel, so 
 
 This is the piece that will hold the geared wheel, it's quite small and I'm really appreciating just how tiny my Micrmouse is going to be.
 
-This piece was also printed on the Elegoo Neptune 4 printer [Alex Pilika](https://core2engineering.wordpress.com/) brought in last year. Despite having been in the shop since last year, the printer was only just now set up. So far, it seems to be inconsistent, but when it prints well, it's the best FDM printer in the shop.
+This piece was also printed on the Elegoo Neptune 3 Pro printer [Alex Pilika](https://core2engineering.wordpress.com/) brought in last year. Despite having been in the shop since last year, the printer was only just now set up. So far, it seems to be inconsistent, but when it prints well, it's the best FDM printer in the shop.
