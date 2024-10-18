@@ -32,9 +32,9 @@ editPost:
 
 I (thankfully) noticed on Tuesday that, despite my Micromouse being able to fit in a cell and rotate, it was too large to fit through the slightly-smaller open area between cells. Additionally, the Time of Flight (ToF) sensors were too high up and could not see the 25mm-high walls that the half-scale Micromouse rules require the maze to have.
 
-!["Size comparision"](/img/senior/seniorweek06/mice.webp)
+!["Size comparison"](/img/senior/seniorweek06/mice.webp)
 
-After some deliberation, I eventually decided that I would need to find some smaller ToF sensors and completely redesign my Micromouse. It will have the same components, other than the new ToF sensors, but will be smaller. In order to accomodate this, I will be splitting the components accross two vertically-stacked PCBs.
+After some deliberation, I eventually decided that I would need to find some smaller ToF sensors and completely redesign my Micromouse. It will have the same components, other than the new ToF sensors, but will be smaller. In order to accommodate this, I will be splitting the components across two vertically-stacked PCBs.
 
 The new design is still concerningly large compared to the maze, and I might try to shrink it further. Now that I've committed to a stacked-PCB design, it should be possible to squeeze it even smaller.
 
