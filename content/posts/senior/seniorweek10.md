@@ -9,7 +9,7 @@ tags: ["Electronics","Micromouse","Milling","Robotics Shop Blog","Soldering"]
 cover:
     image: "/img/senior/seniorweek10/cube.webp" # image path/url
     hidden: false # only hide on current single page
-draft: true
+draft: false
 
 # weight: 1
 author: "Aaron BenDaniel"
@@ -32,11 +32,11 @@ editPost:
 
 This was a short week as we had Tuesday off because of the presidential election.
 
-The main thing I did this week was to continue supervising the Sophomores in the machine shop while they were making their Turner's Cubes. This took up pretty much all of my time, so I didn't get to do too much on my Micromouse.
+The main thing I did this week was to continue supervising the Sophomores in the machine shop while they were making their Turner's Cubes. This took up pretty much all of my time, so I didn't get to get much work done on my Micromouse.
 
 On Monday, I made some changes to and ordered the Upper Boards from JLC PCB, so they should be arriving sometime next week and I should (hopefully) be able to finish the hardware for my Micromouse.
 
-On Wednesday, I wrote code to turn the on-board Neopixel on the QT-PY into a status indicator. I will use the RGB-LED to indicate the current state of the Micromoues. The color scheme will be:
+On Wednesday, I wrote code to turn the on-board Neopixel on the QT-PY into a status indicator. I will use the RGB-LED to indicate the current state of the Micromouse. The color scheme will be:
 
 ```
 Green - Done
@@ -94,6 +94,8 @@ void buttonCheckpoint() {
 }
 
 {{</ highlight >}}
+
+---
 
 !["Image of the motor I'm using"](/img/senior/seniorweek10/motor.webp)
 
