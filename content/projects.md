@@ -17,7 +17,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Sunk Robotics
+## Sunk Robotics:
 
 {{< figure src="/img/projects/sunklogo.png" width="1000" >}}
 
@@ -117,7 +117,23 @@ After the 2021 regional, we realized that we needed a bottom-facing camera. I wa
 
 During our first year, before we had actually attended any competitions, we weren’t quite sure what the lighting conditions of the pools we’d be competing in would be. We decided to add a light to the front of the ROV so that we’d be able to see in low-light conditions. We quickly realized that we’d only be competing in well-lit environments and decided not to use the light as it could only cause additional problems and we did not require it. This was my first contribution to the Robotics Team.
 
-## The Sumo Bot Project
+## Micromouse:
+
+!["Image of my Micromouse"](/img/senior/seniorweek11/front.webp)
+
+!["Image of the maze"](/img/senior/seniorweek01/Maze.webp)
+
+So far in my senior year at MVTHS, my main project has been constructing a Micromouse. Micromice are small maze-solving robots that are placed in a maze, allowed to explore a little bit, and then try to get from the start to the finish as fast as possible. I'm building a half-scale Micromouse, which is, as the name might suggest, half the size of a typical Micromouse. Each cell in the maze it must traverse is 9cmx9cm, which means that the robot must be quite compact and this posed a number of challenges for me.
+
+I have finished the hardware and pathfinding algorithm for the robot, and am currently working on the hardware-interface code and getting it's movements as precise as possible. The robot has two DC motors, an encoder on each motor, a BNO085 9-axis IMU, and three VL53L0X Time of Flight sensors.
+
+It features an Adafruit QT-PY ESP32-S2 microcontroller, which is completely overkill for this project, but it's *super* small and while I did try, I ultimately failed at getting my pathfinding algorith to run on an ATMEGA328.
+
+*See the code for my Micromouse on {{< linknewtab "https://github.com/AaronBenDaniel/micromouse/" "Github" >}}*
+
+*See posts about my {{< linktotag "micromouse" "Micromouse">}}*
+
+## The Sumo Bot Project:
 
 !["Image of the Sumo Bot Top"](/img/projects/sumobottop.webp)
 
@@ -125,7 +141,7 @@ During our first year, before we had actually attended any competitions, we were
 
 All sophomores in the Robotics & Engineering vocational shop participate in the Sumo Bot Competition. Students are broken up into teams of 1-2 people and they have a few weeks to build a sumo bot to compete. My partner, {{< linknewtab "https://tazam257.wixsite.com/tanzerul-azam" "Tanzerul Azam" >}}, and I formed "Team Nestle" and built a sumo bot.
 
-## The Lightbox Project
+## The Lightbox Project:
 
 {{< figure src="/img/projects/lightboxaaron.webp" alt="Image of my lightbox" >}}
 
@@ -142,7 +158,7 @@ My lightbox has a variety of display modes:
 - Rainbow
 - Strobe
 
-## Metal Head
+## Metal Head:
 
 !["Image of the Metal Head"](/img/projects/metalhead.webp)
 
@@ -150,7 +166,7 @@ My lightbox has a variety of display modes:
 
 Near the end of my sophomore year in the Robotics & Engineering shop, I wanted to learn more about our Tormach PCNC 1100 4th axis extension. I decided that I wanted to mill a complex 3D object and settled on a portrait bust of a human head.
 
-## Machinist's Jack
+## Machinist's Jack:
 
 !["Image of my Machinist's Jack"](/img/projects/jack.webp)
 
@@ -160,13 +176,13 @@ I was suggested the idea to make a Machinist's Jack by Mr. L after having one wo
 
 *See posts about the {{< linktotag "machinists-jack" "Machinist's Jack">}}*
 
-## Dead Tool Rack
+## Dead Tool Rack:
 
 !["Image of the Metal Head"](/img/projects/deadrack.webp)
 
 After I broke a 1/2″ flat-end mill, I wanted to create a place to put other broken milling tools. I cut a bunch of holes into some aluminum angle bracket and designed a holder template to be 3D printed for each bit to be held in. I haven’t made holders for quite a few things that are sitting on it…. I should make them at some point.
 
-## Metal Die
+## Metal Die:
 
 !["Image of the Metal Head"](/img/projects/die.webp)
 
