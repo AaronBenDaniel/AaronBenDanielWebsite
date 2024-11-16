@@ -127,7 +127,7 @@ So far in my senior year at MVTHS, my main project has been constructing a Micro
 
 I have finished the hardware and pathfinding algorithm for the robot, and am currently working on the hardware-interface code and getting it's movements as precise as possible. The robot has two DC motors, an encoder on each motor, a BNO085 9-axis IMU, and three VL53L0X Time of Flight sensors.
 
-It features an Adafruit QT-PY ESP32-S2 microcontroller, which is completely overkill for this project, but it's *super* small and while I did try, I ultimately failed at getting my pathfinding algorith to run on an ATMEGA328.
+It features an Adafruit QT-PY ESP32-S2 microcontroller, which is completely overkill for this project, but it's *super* small and while I did try, I ultimately failed at getting my pathfinding algorithm to run on an ATMEGA328.
 
 *See the code for my Micromouse on {{< linknewtab "https://github.com/AaronBenDaniel/micromouse/" "Github" >}}*
 
