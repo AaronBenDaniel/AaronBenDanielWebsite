@@ -9,7 +9,7 @@ tags: ["Micromouse","Miscellaneous","Programming","Robotics Shop Blog"]
 cover:
     image: "/img/senior/seniorweek12/platformIO.webp" # image path/url
     hidden: false # only hide on current single page
-draft: true
+draft: false
 
 # weight: 1
 author: "Aaron BenDaniel"
@@ -32,6 +32,10 @@ editPost:
 
 Now that the hardware for my Micromouse is done, I've started writing the hardware interface code that will allow my pathfinding algorithm to move the robot to actually solve a physical maze. In the past, I had been using the Arduino IDE 2.0 to develop code for Arduino boards, but I've always had some gripes with it. It doesn't have very good type-checking and it takes *forever* to compile ESP32 code. The main reason for why it takes so long is that it always recompiles everything even if, for example, the libraries haven't changed. I have switched to using VSCode with the PlatformIO extension. Not only does this new IDE offer good type checking, but it also caches object files and can reuse them. Because of this, compilations that sometimes took up to two minutes now take around 17 seconds (including upload time).
 
+---
+
 {{< video "/img/senior/seniorweek12/video.mp4" "video" >}}
+
+---
 
 I wrote a basic PID algorithm to control the turning of the robot that *did* work, but after wrangling with it a bunch I eventually gave up and used a PID control library. The library is a little better, but my algorithm was surprisingly good. Unfortunately, even the library, so far, isn't good enough. Maybe with additional tuning I could get the control precise enough, but as it is now, I can rotate the Mouse a few degrees before it reacts. This is unacceptable and I will need to, somehow, make it even more precise.
