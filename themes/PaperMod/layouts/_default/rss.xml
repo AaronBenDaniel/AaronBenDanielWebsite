@@ -72,7 +72,18 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ with .Description | html }}{{ . }}{{ else }}{{ .Summary | html }}{{ end -}}</description>
+      <description>
+        {{- with .Params.cover.image }}
+        &lt;p&gt;&lt;img src="{{ . | absURL }}" loading="lazy" /&gt;&lt;/p&gt;
+        {{- else }}
+        <p>No cover image available.</p>
+        {{- end }}
+        {{- with .Description | html }}
+          {{ . }}
+        {{- else }}
+          {{ .Content | html }}
+        {{- end }}
+      </description>
       {{- if and site.Params.ShowFullTextinRSS .Content }}
       <content:encoded>{{ (printf "<![CDATA[%s]]>" .Content) | safeHTML }}</content:encoded>
       {{- end }}
