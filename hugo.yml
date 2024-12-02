@@ -70,6 +70,8 @@ params:
       url: "https://www.linkedin.com/in/aaron-bendaniel-43747a29b/"
     - name: email
       url: "mailto:aaron@abendaniel.top"
+    - name: rss
+      url: "/index.xml"
 
   editPost:
     URL: "https://github.com/AaronBenDaniel/AaronBenDanielWebsite"
