@@ -123,6 +123,10 @@ During our first year, before we had actually attended any competitions, we were
 
 !["Image of the maze"](/img/senior/seniorweek01/Maze.webp)
 
+{{< video "/img/senior/seniorweek13/video.mp4" "video" >}}
+
+---
+
 So far in my senior year at MVTHS, my main project has been constructing a Micromouse. Micromice are small maze-solving robots that are placed in a maze, allowed to explore a little bit, and then try to get from the start to the finish as fast as possible. I'm building a half-scale Micromouse, which is, as the name might suggest, half the size of a typical Micromouse. Each cell in the maze it must traverse is 9cmx9cm, which means that the robot must be quite compact and this posed a number of challenges for me.
 
 I have finished the hardware and pathfinding algorithm for the robot, and am currently working on the hardware-interface code and getting it's movements as precise as possible. The robot has two DC motors, an encoder on each motor, a BNO085 9-axis IMU, and three VL53L0X Time of Flight sensors.
