@@ -147,11 +147,13 @@ All sophomores in the Robotics & Engineering vocational shop participate in the 
 
 ## The Lightbox Project:
 
-{{< figure src="/img/projects/lightboxaaron.webp" alt="Image of my lightbox" >}}
+!["Image of my lightbox"](/img/projects/lightboxaaron.webp)
 
-{{< figure src="/img/projects/lightboxes.webp" alt="Image of all the class of 2025's lightboxes" caption="Left-to-right: Scott Campbell (’25), Tanzerul Azam (’25), Nate Matarazzo (’25), Aaron BenDaniel (’25)." >}}
+!["Image of all the class of 2025's lightboxes"](/img/projects/lightboxes.webp)
 
-{{< figure src="/img/projects/lightboxoff.webp" alt="Image of my lightbox" >}}
+{{< rawhtml >}} <figure><figcaption><p> Left-to-right: Scott Campbell ('25), Tanzerul Azam ('25), Nate Matarazzo ('25), Aaron BenDaniel ('25). </p></figcaption></figure> {{< /rawhtml >}}
+
+!["Image of my lightbox"](/img/projects/lightboxoff.webp)
 
 All sophomores in the Robotics & Engineering vocational shop are tasked to build lightboxes during the second quarter of their year. I decided to build a wooden ellipsoid lightbox. It has a hexagonal display that features the face of one of my classmates, Tanzerul Azam. The lightbox can be controlled using the switch and potentiometer on the sides.
 
