@@ -9,7 +9,7 @@ tags: ["FDM Printing","Laser Cutting","Manufacturing","Micromouse","Programming"
 cover:
     image: "/img/senior/seniorweek14/maze.webp" # image path/url
     hidden: false # only hide on current single page
-draft: true
+draft: false
 
 # weight: 1
 author: "Aaron BenDaniel"
@@ -32,10 +32,10 @@ editPost:
 
 The main thing I got done this week was building my 12x12 half-scale maze. The original reason I chose to build a half-scale Micromouse instead of a normal-scale one, even though it's much harder, was because I wanted to be able to build a reasonably sized maze that could still fit on a tabletop.
 
-This maze is fully reconfigurable and I should be able to build any pattern I want. It's smaller than a true to-spec half-scale Micromouse maze, which is 22x22 cells.
+This maze is fully reconfigurable and I should be able to build any pattern I want. It's smaller than a true to-spec half-scale Micromouse maze, which is 22x22 cells. I haven't printed enough wall posts to fill out the entire maze, but I don't need more than I have right now, I'll eventually print the rest.
 
 !["The file that I needed to fix PlatformIO"](/img/senior/seniorweek14/partitions.webp)
 
 {{< rawhtml >}} <figure><figcaption><p> This was the file I needed to fix PlatformIO, not sure why I suddenly needed it. </p></figcaption></figure> {{< /rawhtml >}}
 
-The maze took two days to make, and I spent the other two researching and testing ways t make my Micromouse more precise. I also spent quite a while chasing Github issues and forum posts trying to fix PlatformIO, which decided to break for some reason. Despite the... challenges... I've faced with it, I still much prefer using VSCode over the Arduino IDE.
+The maze took two days to make, and I spent the other two researching and testing ways to make my Micromouse more precise. I also spent quite a while chasing Github issues and forum posts trying to fix PlatformIO, which decided to break for some reason. Despite the... challenges... I've faced with it, I still much prefer using VSCode over the Arduino IDE.
