@@ -42,6 +42,6 @@ On Wednesday I started planning my new project: A tap-follower. A tap-follower i
 
 I created the drawings for it on Wednesday. The tool will have four parts in total, including the spring.
 
-<!-- !["Half-finished body"](/img/senior/seniorweek17/body.webp) -->
+!["Half-finished body"](/img/senior/seniorweek17/body.webp)
 
 On Thursday I started turning the body of the tap-follower. It will require two setups and hopefully the shop's new collet-chuck will help keep my parts concentric between setups.
