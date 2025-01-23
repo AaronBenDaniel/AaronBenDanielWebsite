@@ -9,7 +9,7 @@ tags: ["Manufacturing","Robotics Shop Blog","Tap-Follower","Turning"]
 cover:
     image: "/img/senior/seniorweek18/failure.webp" # image path/url
     hidden: false # only hide on current single page
-draft: trueexit
+draft: true
 
 # weight: 1
 author: "Aaron BenDaniel"
