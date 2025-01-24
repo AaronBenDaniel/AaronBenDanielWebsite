@@ -38,11 +38,11 @@ Before I write about this week's work, I finally got a picture of the finished p
 
 ### Tuesday
 
-<!-- !["Image of the body threads"](/img/senior/seniorweek18/threads.webp) -->
+!["Image of the body threads"](/img/senior/seniorweek18/threads.webp)
 
 On Tuesday I turned the threads on the body of my Tap Follower. They were not fantastic. I didn't make a trough for me to stop threading as I was concerned about the wall thickness. Because of this, the ends of the threads are inconsistent and overall not great. However, I expect that they will still work just fine and that it's purely cosmetic.
 
-<!-- !["Image of the bore through the body"](/img/senior/seniorweek18/bore.webp) -->
+!["Image of the bore through the body"](/img/senior/seniorweek18/bore.webp)
 
 In addition to the threads on Tuesday, I also drilled the 1/2in hole in the body. It took quite a while, as I needed to do a "pecking" operation to avoid clogging up the drill bit with chips. This significantly slows down the process and it ended up taking me almost a whole day. I also ended up misjudging the depth of the drilling operation and ended up needing to do multiple operations because, after I finished the first one, I realized that it wasn't deep enough and there was more material inside of the piece than I had predicted.
 
@@ -50,7 +50,7 @@ In addition to the threads on Tuesday, I also drilled the 1/2in hole in the body
 
 On the bright side, this showed firsthand one of the big advantages of using a collet chuck. Even though I took the piece out and put it back in, it was still perfectly concentric. Additionally, though it's important to note I'm working with steel and not aluminum, there were no marks on the parts from the chuck and the surface finish was unblemished.
 
-<!-- !["Image of the finished body"](/img/senior/seniorweek18/body.webp) -->
+!["Image of the finished body"](/img/senior/seniorweek18/body.webp)
 
 By the end of Tuesday, I finished the body. I think it turned out about as good as I could have expected, though it's definitely smaller than I imagined when I was designing it in Fusion. I'm a bit concerned that it'll be *too* small, but for smaller threads, which is most of what we're making, I hope it will be enough.
 
