@@ -48,3 +48,7 @@ Here's a video of it working, narrated by your's truly.
 !["n o a h"](/img/senior/seniorweek21/noah.webp)
 
 I also spent a bit of time on Monday and Tuesday helping Mr. L with git and hugo. He didn't have much experience with either and asked for some help while making his own blog using Hugo. He has chosen to use PaperMod, which is the same Hugo theme I use.
+
+!["wordpress finally worked!"](/img/senior/seniorweek21/wordpress.webp)
+
+I also started setting up a selfhosted Wordpress instance for the Robotics Team's website.
