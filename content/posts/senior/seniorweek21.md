@@ -3,7 +3,7 @@
 title: "Senior Week 21"
 date: 2025-02-13
 Summary: "Finishing the ways cover"
-tags: ["Manufacturing","Miscellaneous","Robotics Shop Blog"]
+tags: ["Manufacturing","Miscellaneous","Robotics Shop Blog","Ways Cover","Tool Post Bearing"]
 # CAD, CAM, Cameras, Electronics, Electronics Tube, FDM Printing, Frame, General CAD, Laser Cutting, Manufacturing, Micromouse, Milling, Miscellaneous, PCB Design,
 # Programming, Robotics Shop Blog, Routing, SLA Printing, Soldering, Sunk Robotics, Water-Jet Cutting, Watts Water Plaque, Machinist's Jack, Tap-Follower, Turning
 cover:

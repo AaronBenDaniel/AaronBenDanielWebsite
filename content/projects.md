@@ -164,13 +164,16 @@ My lightbox has a variety of display modes:
 - Rainbow
 - Strobe
 
-## Metal Head:
+## Tap Follower
 
-!["Image of the Metal Head"](/img/projects/metalhead.webp)
+!["Image of my Tap Follower](/img/senior/seniorweek19/follower.webp)
+!["Exploded View of my Tap Follower](/img/senior/seniorweek17/explode.webp)
 
-{{< youtube OuZklNt7EmY >}}
+During my Micromouse project, I was getting frustrated with my slow progress and decided to take a break. I chose to start a machining project and decided to build a tap follower.
 
-Near the end of my sophomore year in the Robotics & Engineering shop, I wanted to learn more about our Tormach PCNC 1100 4th axis extension. I decided that I wanted to mill a complex 3D object and settled on a portrait bust of a human head.
+A tap follower is a tool to help center a thead-cutting tap and apply constant pressure. It makes cutting threads with taps significantly easier.
+
+*See posts about my {{< linktotag "tap-follower" "Tap-Follower">}}*
 
 ## Machinist's Jack:
 
@@ -182,11 +185,25 @@ I was suggested the idea to make a Machinist's Jack by Mr. L after having one wo
 
 *See posts about the {{< linktotag "machinists-jack" "Machinist's Jack">}}*
 
-## Dead Tool Rack:
+## Tool Post Bearing
 
-!["Image of the Metal Head"](/img/projects/deadrack.webp)
+!["CAD Model of the Tool Post Bearing](/img/senior/seniorweek20/bearing.webp)
 
-After I broke a 1/2″ flat-end mill, I wanted to create a place to put other broken milling tools. I cut a bunch of holes into some aluminum angle bracket and designed a holder template to be 3D printed for each bit to be held in. I haven’t made holders for quite a few things that are sitting on it…. I should make them at some point.
+After I finished the Tap Follower, I still wanted to continue my break from my Micromouse project and decided to make yet another addition to the machine shop.
+
+This bearing sits between the South Bend Lathe's tool post and the bearing that holds it down. It eliminates friction between the two and without it, the tool post rotates out of alignment when tightening it down. This bearing makes aligning the tool post a significantly faster task and a lot less frustrating.
+
+{{< linknewtab "https://benwirz.netlify.app" "Ben Wirz" >}} recommended this project to me.
+
+## Metal Head:
+
+!["Image of the Metal Head"](/img/projects/metalhead.webp)
+
+{{< youtube OuZklNt7EmY >}}
+
+---
+
+Near the end of my sophomore year in the Robotics & Engineering shop, I wanted to learn more about our Tormach PCNC 1100 4th axis extension. I decided that I wanted to mill a complex 3D object and settled on a portrait bust of a human head.
 
 ## Metal Die:
 

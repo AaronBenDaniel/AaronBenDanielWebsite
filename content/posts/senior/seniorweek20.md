@@ -3,7 +3,7 @@
 title: "Senior Week 20"
 date: 2025-02-06
 Summary: "Starting another lathe project"
-tags: ["Manufacturing","Miscellaneous","Robotics Shop Blog","Turning"]
+tags: ["Manufacturing","Miscellaneous","Robotics Shop Blog","Tool Post Bearing","Turning"]
 # CAD, CAM, Cameras, Electronics, Electronics Tube, FDM Printing, Frame, General CAD, Laser Cutting, Manufacturing, Micromouse, Milling, Miscellaneous, PCB Design,
 # Programming, Robotics Shop Blog, Routing, SLA Printing, Soldering, Sunk Robotics, Water-Jet Cutting, Watts Water Plaque, Machinist's Jack, Tap-Follower, Turning
 cover:
