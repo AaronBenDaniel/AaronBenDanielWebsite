@@ -164,10 +164,10 @@ My lightbox has a variety of display modes:
 - Rainbow
 - Strobe
 
-## Tap Follower
+## Tap Follower:
 
-!["Image of my Tap Follower](/img/senior/seniorweek19/follower.webp)
-!["Exploded View of my Tap Follower](/img/senior/seniorweek17/explode.webp)
+!["Image of my Tap Follower](/img/projects/tapFollower.webp)
+!["Exploded View of my Tap Follower](/img/projects/explode.webp)
 
 During my Micromouse project, I was getting frustrated with my slow progress and decided to take a break. I chose to start a machining project and decided to build a tap follower.
 
@@ -185,9 +185,10 @@ I was suggested the idea to make a Machinist's Jack by Mr. L after having one wo
 
 *See posts about the {{< linktotag "machinists-jack" "Machinist's Jack">}}*
 
-## Tool Post Bearing
+## Tool Post Bearing:
 
-!["CAD Model of the Tool Post Bearing](/img/senior/seniorweek20/bearing.webp)
+!["Image of the Tool Post Bearing"](/img/projects/bearing.webp)
+!["Image of the Tool Post Bearing on  the toolpost"](/img/projects/toolpost.webp)
 
 After I finished the Tap Follower, I still wanted to continue my break from my Micromouse project and decided to make yet another addition to the machine shop.
 
