@@ -44,6 +44,6 @@ With the Bike Holder done, I had nothing to do. However, Ben Wirz was using the 
 
 These parts are required to hold the tools in each ATC pocket, and while we probably could have 3D printed them, they'd most likely break and drop a tool eventually. We could easily enough mill them ourselves so that's what I set out to do.
 
-<!-- !["Part"](/img/senior/seniorweek24/part.webp) -->
+!["Part"](/img/senior/seniorweek24/part.webp)
 
 I did most of the CAM for it on Wednesday, and started milling the first one on Thursday. It so far looks good, but I still need to do the second setup to see if the part will actually work.
