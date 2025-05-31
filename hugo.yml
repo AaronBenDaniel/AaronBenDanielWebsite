@@ -67,7 +67,7 @@ params:
     - name: github
       url: "https://github.com/AaronBenDaniel"
     - name: linkedin
-      url: "https://www.linkedin.com/in/aaron-bendaniel-43747a29b/"
+      url: "https://www.linkedin.com/in/aaron-bendaniel/"
     - name: email
       url: "mailto:aaron@abendaniel.top"
     - name: rss
