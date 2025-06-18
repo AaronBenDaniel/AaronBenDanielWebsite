@@ -3,7 +3,7 @@
 title: "Senior Week 32"
 date: 2025-05-15
 Summary: "Making some good progress on the eccentric staircase"
-tags: ["Manufacturing","Robotics Shop Blog","Sunk Robotics","Turning"]
+tags: ["Eccentric-Staircase","Manufacturing","Robotics Shop Blog","Sunk Robotics","Turning"]
 # Band Saw Fence, CAD, CAM, Cameras, Electronics, Electronics Tube, FDM Printing, Frame, General CAD, Laser Cutting, Manufacturing, Micromouse, Milling, Miscellaneous, PCB Design,
 # Programming, Robotics Shop Blog, Routing, SLA Printing, Soldering, Sunk Robotics, Water-Jet Cutting, Watts Water Plaque, Machinist's Jack, Tap-Follower, Turning
 cover:

@@ -164,6 +164,19 @@ My lightbox has a variety of display modes:
 - Rainbow
 - Strobe
 
+## Eccentric Staircase:
+
+!["Image of my Eccentric Staircase](/img/senior/seniorweek33/engrave.webp)
+!["Image of my Eccentric Staircase](/img/senior/seniorweek32/staircase.webp)
+---
+
+{{< video "/img/senior/seniorweek32/video.mp4" "video" >}}
+
+---
+My eccentric staircase was the last project I did in the Robotics & Engineering shop. I wanted to make something that looked interesting, and keeping with the theme I had set, wanted it to be a machining project. I had seen a similar project online and was inspired to make my own.
+
+*See posts about my {{< linktotag "eccentric-staircase" "Eccentric Staircase">}}*
+
 ## Tap Follower:
 
 !["Image of my Tap Follower](/img/projects/tapFollower.webp)
@@ -173,7 +186,7 @@ During my Micromouse project, I was getting frustrated with my slow progress and
 
 A tap follower is a tool to help center a thead-cutting tap and apply constant pressure. It makes cutting threads with taps significantly easier.
 
-*See posts about my {{< linktotag "tap-follower" "Tap-Follower">}}*
+*See posts about my {{< linktotag "tap-follower" "Tap Follower">}}*
 
 ## Machinist's Jack:
 

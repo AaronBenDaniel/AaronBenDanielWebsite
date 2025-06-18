@@ -3,8 +3,8 @@
 title: "Senior Week 33"
 date: 2025-05-22
 Summary: "Final high school blog post"
-tags: ["Milling","Miscellaneous","Robotics Shop Blog"]
-# Band Saw Fence, CAD, CAM, Cameras, Electronics, Electronics Tube, FDM Printing, Frame, General CAD, Laser Cutting, Manufacturing, Micromouse, Milling, Miscellaneous, PCB Design,
+tags: ["Eccentric-Staircase","Milling","Miscellaneous","Robotics Shop Blog"]
+# Band Saw Fence, CAD, CAM, Cameras, Eccentric-Staircase, Electronics, Electronics Tube, FDM Printing, Frame, General CAD, Laser Cutting, Manufacturing, Micromouse, Milling, Miscellaneous, PCB Design,
 # Programming, Robotics Shop Blog, Routing, SLA Printing, Soldering, Sunk Robotics, Water-Jet Cutting, Watts Water Plaque, Machinist's Jack, Tap-Follower, Turning
 cover:
     image: "/img/senior/seniorweek33/engrave.webp" # image path/url
