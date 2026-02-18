@@ -1,6 +1,6 @@
 ---
 title: "About Me" #EDIT
-date: 2020-09-15T11:30:03+00:00 3EDIT
+date: 2026-02-17
 Summary: "A page about who I am"
 # weight: 1
 author: "Aaron BenDaniel"
@@ -23,7 +23,9 @@ editPost:
 
 {{< figure src="/img/other/pfp.webp" width="500" >}}
 
-My name is Aaron BenDaniel, I am a senior (class of 2025) at the Medford Vocational Technical High School in Medford, Massachusetts. I am in the Robotics & Engineering vocational shop and am a member of the Medford Robotics Team, Sunk Robotics. Sunk Robotics is a three-time international competitor in the MATE ROV Competition.
+My name is Aaron BenDaniel, I am a freshman (class of 2029) at Syracuse University studying mechanical engineering.
+
+I attended the Medford Vocational Technical High School in Medford, Massachusetts. I was in the Robotics & Engineering vocational shop and was a member of the Medford Robotics Team, Sunk Robotics. Sunk Robotics is a three-time international competitor in the MATE ROV Competition.
 
 I am interested in general engineering, CAD, PCB Design, CNC milling, and manufacturing.
 
